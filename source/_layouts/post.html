@@ -1,0 +1,56 @@
+---
+layout: default
+single: true
+---
+
+ <div class="row">
+
+        <!-- Gallery Items
+        ================================================== --> 
+        <div class="span12 gallery-single">
+
+            <div class="row">
+                <div class="span6">
+                    <img src="{{ root_url }}/img/apps/{{ page.img }}" class="thumbnail span5" alt="{{ page.title }}">
+                </div>
+                <div class="span6">
+                    <h2>{{ page.title }}</h2>
+		    
+                    <p class="lead">{{ page.des }}</p>
+
+		    {% include post/meta.html %}	
+
+                    <a href="{{ root_url }}/portfolio/" class="pull-right"><i class="icon-arrow-left"></i>Back to Portfolio</a>
+                </div>
+            </div>
+
+        </div><!-- End gallery-single-->
+
+    </div><!-- End container row -->
+{% unless page.sharing == false %}
+<div class="row">
+      {% include post/sharing.html %}
+</div>
+{% endunless %}
+<div class="row">
+<p class="meta">
+      {% if page.previous.url %}
+        <a class="basic-alignment left label label-inverse" href="{{page.previous.url}}" title="Previous App: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="basic-alignment right label label-inverse" href="{{page.next.url}}" title="Next App: {{page.next.title}}">{{page.next.title}} &raquo;</a>
+      {% endif %}
+    </p>
+</div>
+<hr/>
+<div class="row">
+  {{ content }}
+</div>
+<div class="row">
+{% if site.disqus_short_name and page.comments == true %}
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+  </section>
+{% endif %}
+</div>
