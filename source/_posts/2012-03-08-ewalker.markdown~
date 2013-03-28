@@ -1,0 +1,165 @@
+---
+comments: true
+date: 2012-03-08 14:33:29
+layout: post
+slug: ewalker
+title: eWalker
+wordpress_id: 73
+categories:
+- Mobile
+- My Ideas
+- Symbian OS
+tags:
+- hardware
+- java
+- python
+
+img : ewalker.png
+des : Smart phones to be used as an interactive console featuring wireless gaming device, presentation tool or a keyboard with the use of technologies available on the smart phones such as Accelerometer
+---
+
+eWalker is an application that allows smart phones to be used as an interactive console featuring wireless gaming device, presentation tool or a keyboard with the use of technologies available on the smart phones such as Accelerometer. Mobile application was developed for Symbian OS using Python and desktop application was on Java.This is an undergraduate project we did for the Engineering Design module in 2010.
+
+[ More information available on the project website](http://ewalker.ideawide.com)
+
+## 3 Devices in 1
+
+With our software users can have different uses of the smart phone. Theses modes can be changed using the mobile interface and the user can easily switch in between and use them in any combination.
+
+<ul class="nav nav-tabs" id="features">
+  <li class="active"><a href="#Presenter">Wireless Presenter</a></li>
+  <li><a href="#Joystick">Joystick</a></li>
+  <li><a href="#Wheel">Driving Wheel</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane active row-fluid" id="Presenter">
+    <div class="span2">
+      <img src="/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
+    </div>
+    <div class="span10">
+eWalker perfectly works as and wireless presenter with all the features a typical presenter have. Further more it also have added features like controlling the mouse movement gesture according to the tilt angle.
+    </div>
+  </div>
+  <div class="tab-pane row-fluid" id="Joystick">
+<div class="span2">
+      <img src="/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
+    </div>
+    <div class="span10">
+eWalker is capable of playing First Person Shooter games like Call of Duty, Counter Strike. Axis can be configured in the PC application and user can interactively play the game using the gestures.
+</div>
+  </div>
+  <div class="tab-pane row-fluid" id="Wheel">
+<div class="span2">
+      <img src="/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
+    </div>
+    <div class="span10">
+Playing games like Need For Speed are also supported in the Driving mode. Player will be able to use the phone as the driving wheel and the rotation are sensed and will be used to drive the vehicle on the game.
+</div>
+  </div>
+</div>
+
+<script>
+  $(function () {
+    $('#features li a').click(function (e) {
+ 	 e.preventDefault();
+ 	 $(this).tab('show');
+    });
+  })
+</script>
+
+
+
+<div class="alert alert-success">
+User manual can be download from <a href="http://ideawide.com/wp-content/uploads/2012/03/E-Walker-Help.pdf">here</a>
+</div>
+
+
+## Distribution
+
+We decided to distribute eWalker as 4 packages targeting different segments. Each package will contain the user manual, software installation CD, quick start guide.
+
+
+<div class="pricing-table-wrapper">
+  <div class="pricing-table row-fluid">
+    <ul class="pricing-column span3">
+        <li class="pricing-title">Starter
+	  <small>(Basic Package)</small>
+        </li>
+        <li class="pricing-price">$0.00</li>
+        <li>Mouse</li>
+	<li>-</li>
+	<li>-</li>
+	<li>First Person Shooter</li>
+	<li>Online Support</li>
+
+	<li class="pricing-button">
+	    <a class="button" href="#">Buy</a>
+	</li>
+    </ul>
+    <ul class="pricing-column span3">
+        <li class="pricing-title">Professional
+	  <small>(Lecturer Package)</small>
+        </li>
+        <li class="pricing-price">$29.99</li>
+        <li>Mouse</li>
+	<li>Key board</li>
+	<li>-</li>
+	<li>-</li>
+	<li>Online Support</li>
+
+	<li class="pricing-button">
+	    <a class="button" href="#">Buy</a>
+	</li>
+    </ul>
+    <ul class="pricing-column span3">
+        <li class="pricing-title">Gamer
+	  <small>(Gamer Package)</small>
+        </li>
+        <li class="pricing-price">$39.99</li>
+	<li>Key board</li>
+	<li>-</li>
+	<li>Driving</li>
+	<li>First Person Shooter</li>
+	<li>Online Support</li>
+	<li class="pricing-button">
+	    <a class="button" href="#">Buy</a>
+	</li>
+    </ul>
+    <ul class="pricing-column span3">
+        <li class="pricing-title">Ultimate
+	  <small>(All in one Package)</small>
+        </li>
+        <li class="pricing-price">$49.99</li>
+	<li>Mouse</li>
+	<li>Key board</li>
+	<li>Driving</li>
+	<li>First Person Shooter</li>
+	<li>Online Support</li>
+	<li class="pricing-button">
+	    <a class="button" href="#">Buy</a>
+	</li>
+    </ul>
+  </div>
+</div>
+
+
+
+## Presentation
+
+This is the presentation slides we used to launch the product.
+
+<iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35!814&amp;p4=&amp;ak=!ANd0SXXxYRwq1LQ&amp;kip=1&amp;authkey=!ANd0SXXxYRwq1LQ" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
+
+
+## Presented 0n
+
+  * [ExMO ](http://www.exmo.lk/)- An island wide exhibition conducted by the University of Moratuwa
+
+  * [Dayata Kirula Exhibition ](http://www.sltda.gov.lk/dayata_kirula)in Buttala
+	
+  * [Techno Exhibition ](http://www.techno.lk/) 2010, 2011
+
+  * [EDEX Exhibition](www.edex.lk)
+
+

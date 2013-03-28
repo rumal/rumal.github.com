@@ -1,0 +1,27 @@
+---
+comments: true
+date: 2012-03-08 12:59:32
+layout: post
+slug: friend-utilities
+title: Friend Utilities
+categories:
+- Developed
+- Facebook
+- My Ideas
+- Under Development
+- Web Applications
+tags:
+- facebook-api
+- html-js
+- php
+ 
+img: friend-utilities.png
+publish-facebook: https://apps.facebook.com/friend-utilities/
+users: 1,000
+des : Utility application to Facebook
+---
+
+This is an application that allows users to extend the functionality on Facebook. This basically and extended version of [Appearing Offline](http://www.ideawide.com/appearing-offline/). It has added support to add animated images to Facebook posts.
+
+This application has more than 1,000+ Facebook installs
+

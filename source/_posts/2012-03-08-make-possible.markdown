@@ -1,0 +1,133 @@
+---
+comments: true
+date: 2012-03-08 11:56:42
+layout: post
+slug: make-possible
+title: Make Possible
+wordpress_id: 2
+categories:
+- Developed
+- My Ideas
+- Web Applications
+tags:
+- dotnet
+- asp
+- ecommerce
+- html-js
+- mssql
+
+img: make-possible.png
+des: Peer to peer donation system
+---
+
+##Introduction
+All over the world there are an enormous number of poor people who are in need. There are also potential donors  who  are  looking  to  help  such  individuals  and  groups.  This  project  proposes  an  IT  based  reliable solution to connect donors with such people and to make the donation process more effective.
+
+<div class="alert alert-info"> This is the project we present for Imagine Cup 2011 under the Software Design Category. We were among the 6 <a href="http://dotnetforum.lk/blogs/wela/archive/2011/04/08/imagine-cup-2011-sri-lanka-6-finalist-teams.aspx">Sri Lankan finalist</a> in year 2011.
+</div>
+
+<button type="button" class="btn btn-inverse" data-toggle="collapse" data-target="#demo">
+  Read more
+</button>
+
+<div id="demo" class="collapse" style="height: 0px;">
+<p>To comply with the millennium goal of reducing worldwide poverty, we believe the inequality of wealth distribution should be mitigated because most global problems are due to this inequality. A system which facilitates equal wealth distribution through regulated donation is an ideal solution to many major problems.</p>
+
+<p>Our mission is to facilitate, through e-donation, donors to donate whatever they wish, to people in need, regardless of the mode of donation and the physical distance between them. The objective of this proposal is to make the remote donating process technologically feasible, transparent, and secure, by ensuring personal contact between donor and recipient including the way the donation is being disbursed.</p>
+
+<p>Our solution will be the creation of a website which will enable the donors to get to know potential recipients closely, and to make donations to people who really need them. While omitting drawbacks in similar systems such as being limited to a nation or an organization, our system facilities any donor to donate to any person in need, irrespective of any limitations. More importantly this system complies with latest social technological trends such as community websites but in a transparent and regulated manner.</p>
+
+<p>Anyone who really needs help to fulfill basic requirements such as medicine and education can register on our website, through a sub controller. A controlling body, complying with government regulations, will be appointed for each country which has the authority to appoint sub controllers. Schools and hospitals are some entities which would be appropriate as sub controllers. They are required to give approval only to people with real need. Multiple provisions will be taken to avoid misuse of donations.</p>
+
+<p>The donor can connect to our web site by registering directly, or through a community web site, which has become the second most powerful technology in the decade according to the IEEE [1] and which we believe is the ideal technology for achieving our objective.</p>
+
+<p>Once a donor registers, he has the opportunity to search the database of people in need. Instead of merely donating to an organization, the donor may select the receiver based on the donor’s interest, which may, for example, depend on the receiver’s country, age, or gender. For example, a doctor may prefer to donate medicine to a patient suffering from widespread disease, whilst a teacher may prefer donating books to a primary student. The psychological satisfaction of the donor will thus be enhanced by making a donation to a person of his preference.</p>
+
+<p>If the donation is in the form of money, it will be remitted to the receiver’s bank account. If the donation is in the form of goods the donor may purchase them online from suppliers (on our website or other), who will send the purchased goods to the recipient.  On the other hand, if both the donor and recipient wish to, they may exchange contact details and proceed separately. The recipient has the benefit of receiving what he really needs, which minimizes wastage and improves the effectiveness of the donations.</p>
+
+<p>The promoting mechanism of our website will be community website oriented. Awards will be given to encourage donations. For example, the donations an individual makes will appear on his or her profile on community websites. Further, names of top donors will be highlighted on our website and mentioned in our newsletters. Psychological motivational methods such as sending notifications on a registered donor’s birthday, about a person, born on same day, who is in need, will be used to promote donations. Finally, the recipient will be asked to give feedback on how the donation was utilized, which will further encourage the donor.</p>
+
+<p>Services such as education and health will be enhanced in the countries of the recipients due to necessary resources such as medicine and books being supplied. By encouraging donors to purchase goods from local suppliers, the local economy will be enhanced.</p>
+
+<p>The total implementation process is a massive procedure, which is split into steps for convenience. The first step is to form our website, where the recipients and donors can register.</p>
+
+<p>The ultimate goal of our project is to create an ideal opportunity to help each other and to improve living standards all over the world</p>
+</div>
+
+<div class="alert alert-success">Full Proposal can be downloaded from [here](http://localhost/Ideawide/Website/wp-content/uploads/2012/03/Vishwa_makePossible_ic2011.pdf)</div>
+
+
+##Why makePossible?
+####Wide audience
+
+Since we use a website to address this issue, we can easily widespread our idea through the world in a short period of time via social networks. Since we target people who are having a potential of donating, World Wide Web will be an ideal platform to find and communicate with them.
+
+####Social integration
+
+Apps and mash-ups will be built on available social networks to connect our site conveniently (registration process). The donors can share status of their donations on social networks which would gain reputation and self-satisfaction. This method will also act as a form of advertising our service. A leather board will be maintained to showcase the top donors.
+
+####Psychological impact
+
+We will focus on sending newsletters and notification via social media or email to donors on their special and important days such as birthday, anniversaries where they can choose a recipient with similar characteristics (A donor can help an individual who was born on same day)
+
+####Customized and focused donations
+
+Donors will be able to donate according to their preference. A recipient can be selected from any country, region, gender, category, age etc. For example, the donor may donate to an orphan child on a day which he commemorates his parents.
+
+####Feedback on the donations
+
+When the recipient received the donations, he can (not necessary) share the method of donations via pictures or videos, through the system. While satisfying the donor this will motivate him to make more donations in the future.
+
+####Privacy
+
+Receivers will be able to disclose any information they think that donors might be aware of. Both recipient and donor may disclose their identity depending on their wish. More information on recipient will make him more comprehensive to the donor. If both parties agree they may proceed with the donation process on their own.
+
+####Transparency
+
+This project is based on charity and no motivation of revenue generation. System will disclose information on receivers as much as available, facilitating the users to continue with the donation process even without the system.
+
+####Extendibility
+
+As a step forward we can allow community projects to register in to the system where the public can donate for the community project as well. Each project will be assigned a page which can be used in their advertising campaigns for further details (Like a profile on a social network). The donors will have a common place to find potential projects in our site.Furthermore this can extended as a showcase of talents and support to improve them.
+
+####Regulated
+
+Content goes hereThe system in each country will be regulated by a well known recognized body. This will help the potential donors to have clear idea of system. They are responsible for the gaminess of the recipient.
+
+####Modes of donations
+
+Depending on the needs of the recipient, donor may select making the donation either in form of money or in form of goods.[/tab] [/tabcontent] [/tabs]
+
+
+
+## Product Demo
+This is a video demonstration of the makePossible and its’ functionalities.
+<object width="550" height="310" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="550" height="310" type="application/x-shockwave-flash" src="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+
+
+
+## Product Presentation
+
+Here are the presentation we made during the competition
+
+<ul class="nav nav-tabs" id="myTab">
+  <li class="active"><a data-toggle="tab" href="#UniversityLevel">University Level</a></li>
+  <li><a data-toggle="tab" href="#SemiFinal">Semi Final</a></li>
+  <li><a data-toggle="tab" href="#FinalPre">Final Pre</a></li>
+  <li><a data-toggle="tab" href="#Final">Final</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane active" id="UniversityLevel">
+<iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21736&amp;p4=&amp;ak=%21AIKwjxUTldRy-TY&amp;kip=1&amp;authkey=%21AIKwjxUTldRy-TY" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
+  </div>
+  <div class="tab-pane" id="SemiFinal">
+<object id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
+  </div>
+  <div class="tab-pane" id="FinalPre">
+<object id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
+  </div>
+  <div class="tab-pane" id="Final"><iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21762&amp;p4=&amp;ak=%21AHhX5FaIAHDVnRQ&amp;kip=1&amp;authkey=%21AHhX5FaIAHDVnRQ" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
+  </div>
+</div>
+
