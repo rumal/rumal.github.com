@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Addons | Ideawide]]></title>
+  <link href="http://www.ideawide.com/categories/addons/atom.xml" rel="self"/>
+  <link href="http://www.ideawide.com/"/>
+  <updated>2013-03-29T01:31:41+05:30</updated>
+  <id>http://www.ideawide.com/</id>
+  <author>
+    <name><![CDATA[Pasindu Perera]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Download Unlimited]]></title>
+    <link href="http://www.ideawide.com/download-unlimited/"/>
+    <updated>2012-03-08T20:17:09+05:30</updated>
+    <id>http://www.ideawide.com/download-unlimited</id>
+    <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
+
+<p>Welcome to Download Unlimited Firefox Add-on homepage. This add-on will allow you to bypass restrictions on files size over the network. Basically it will modify the IP packet request to suit your network packet size and download chunks by chunk allowing you to bypass the file size restriction.If you can understand that you know everything on this page, no need to read further download the addon and enjoy.</p>
+
+<div class="alert alert-info">
+More than 70000+ downloads and over 8000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/download-unlimited/statistics/">Firefox Statistic Dashboard</a>
+</div>
+
+
+<h2>Why Download Unlimited?</h2>
+
+<p>Download Unlimited will allow you to download most of the files even there are restrictions to limit file size. Most of the work and educational entity networks are restricted and only able to download files smaller than a certain size. This addon is developed to lift those restrictions and allow users to download any file over the network.</p>
+
+<h3>Here are some of the features of the Download Unlimited</h3>
+
+<ul>
+<li>Free</li>
+<li>Any File</li>
+<li>Any Operating system</li>
+<li>No Softwares (executable)</li>
+<li>Support for Video streaming</li>
+<li>Convenient</li>
+</ul>
+
+
+<h2>How it works</h2>
+
+<p>When the add-on is enabledYou can enable by clicking on its icon situated on the right bottom corner it will look for large files on the pages you browse. If it found out any file that is larger than the limit specified it will try to divide it in to parts and download the file form the network and then put those pieces together to form the original file.</p>
+
+<h2>Limitations/Future updates</h2>
+
+<p>Current version is only capable of assembling and de-assembling parts if the file is restricted. So you might need a download accelerator to grab all the parts of the file. We recommend DownThemAll addon which is a free Firefox download accelerator addon.</p>
+
+<p><a href="https://addons.mozilla.org/en-US/firefox/addon/downthemall/">DownThemAll Addon</a></p>
+
+<p>Keep in mind that some of the file hosting providers does not allow users to download files by parts or resume the download from the previous location if you pause. If you are downloading files from those hosting providers, you may not be able to download the files as server it self will reject your request. Here are the file hosting providers we tested. If you have a premium account you do not need to worry about any of these.</p>
+
+<h3>Compatible File Hosting Providers</h3>
+
+<ul>
+<li><p><a href="http://en.wikipedia.org/wiki/MediaFire">MediaFire</a></p></li>
+<li><p><a href="http://en.wikipedia.org/wiki/Dropbox_%28storage_provider%29">Dropbox</a></p></li>
+<li><p><a href="http://en.wikipedia.org/w/index.php?title=PutLocker&amp;action=edit&amp;redlink=1">PutLocker</a></p></li>
+<li><p><a href="http://en.wikipedia.org/w/index.php?title=FileSplat.com&amp;action=edit&amp;redlink=1">FileSplat</a></p></li>
+<li><p><a href="http://en.wikipedia.org/w/index.php?title=Partage-Facile&amp;action=edit&amp;redlink=1">Partage-Facile</a></p></li>
+<li><p><a href="http://en.wikipedia.org/w/index.php?title=Extabit&amp;action=edit&amp;redlink=1">Extabit</a></p></li>
+</ul>
+
+
+<h3>Not Compatible File Hosting Providers</h3>
+
+<ul>
+<li><p><a href="http://en.wikipedia.org/wiki/RapidShare">RapidShare</a></p></li>
+<li><p><a href="http://en.wikipedia.org/wiki/Fileserve">Fileserve</a></p></li>
+<li><p><a href="http://en.wikipedia.org/wiki/Hotfile">Hotfile</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Video Grabber]]></title>
+    <link href="http://www.ideawide.com/video-grabber/"/>
+    <updated>2012-03-08T20:08:00+05:30</updated>
+    <id>http://www.ideawide.com/video-grabber</id>
+    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
+
+<!-- more -->
+
+
+<p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
+
+<div class="alert alert-info">
+More than 15000+ downloads already and 2000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/statistics/">Firefox Statistic Dashboard</a>
+</div>
+
+
+<h2>Why Video Sub Grabber?</h2>
+
+<p>People tends to download videos(specially Movies and TV series) just because they want to play them with subtitles. There are plenty of websites which allows users to play movies or TV series online but does not have subtitles. This is where Video Sub Player comes in to play. Video Sub Player will allow you to play those movies with subtitles.</p>
+
+<p>This is why you should choose Video Sub Player instead of any other web playe</p>
+
+<ul>
+<li>Free</li>
+<li>Any Video Streaming Site</li>
+<li>Can Download the video</li>
+<li>No Softwares (executable)</li>
+<li>Any subtitle language</li>
+<li>Convenient</li>
+</ul>
+
+
+<h2>How it works</h2>
+
+<p>When the addon is enabledYou can enable by clicking on its icon situated on the right bottom corner, it will look for videos on the pages you browse. If it found out any matching video on the page it will grab it and open from Video Sub Player. You can then specify the subtitles you want to play the video with. Currently you need to manually specify the subtitlesCheck Limitations section.</p>
+
+<p>Video Sub player is a player I developed and can be found at <a href="http://vsp.ideawide.com/">http://vsp.ideawide.com/</a></p>
+
+<h2>Limitations/Future updates</h2>
+
+<p>Current version is not capable of finding subtitles for a given video, but we are working on to provide that service as well. We  had some issues with some video providers due to cross domain policy and now it is completely solved(Add-on needs to be installed to play any videos due to cross domain policy restriction).</p>
+
+<p>Change log is found <a href="http://ideawide.com/video-sub-grabber-change-log/">here</a>.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h3>What video streaming sites are compatible?</h3>
+
+<p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
+
+<h3>I am getting a cross domain error when player is loaded</h3>
+
+<p>Upgrade to the new version of the addon.</p>
+
+<h3>Is subtitles are automatically added?</h3>
+
+<p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
+
+<h3>Mega video links expire after 72 hours</h3>
+
+<p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
+
+<h3>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h3>
+
+<p>Only few of the providers allow that. We are working on that.</p>
+
+<h3>Can I download the movie after watching?</h3>
+
+<p>Yes you can download from the link below the video if you want.</p>
+
+<h3>Is add-on needed to play using the video sub player?</h3>
+
+<p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
+
+<h3>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h3>
+
+<p>No better use our addon. It will grab the video files for you.</p>
+
+<h3>Can I play local files on Video Sub Player?</h3>
+
+<p>Currently no but working on to add that feature.</p>
+]]></content>
+  </entry>
+  
+</feed>

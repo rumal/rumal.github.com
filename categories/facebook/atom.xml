@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Facebook | Ideawide]]></title>
+  <link href="http://www.ideawide.com/categories/facebook/atom.xml" rel="self"/>
+  <link href="http://www.ideawide.com/"/>
+  <updated>2013-03-29T01:31:41+05:30</updated>
+  <id>http://www.ideawide.com/</id>
+  <author>
+    <name><![CDATA[Pasindu Perera]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Appear Offline]]></title>
+    <link href="http://www.ideawide.com/appear-offline/"/>
+    <updated>2012-03-08T20:24:52+05:30</updated>
+    <id>http://www.ideawide.com/appear-offline</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.</p>
+
+<div class="alert alert-error">
+Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Similarities]]></title>
+    <link href="http://www.ideawide.com/similarities/"/>
+    <updated>2012-03-08T20:14:34+05:30</updated>
+    <id>http://www.ideawide.com/similarities</id>
+    <content type="html"><![CDATA[<p>Find similarities among your friends.</p>
+
+<!-- more -->
+
+
+<p>This is an application that allows users to find similarities among their friends. Friends with similar names, who studied in same high school, university, who share birthdays and much more</p>
+
+<div class="alert alert-error">
+Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Friend Utilities]]></title>
+    <link href="http://www.ideawide.com/friend-utilities/"/>
+    <updated>2012-03-08T18:29:32+05:30</updated>
+    <id>http://www.ideawide.com/friend-utilities</id>
+    <content type="html"><![CDATA[<p>This is an application that allows users to extend the functionality on Facebook. This basically and extended version of <a href="http://www.ideawide.com/appearing-offline/">Appearing Offline</a>. It has added support to add animated images to Facebook posts.</p>
+
+<p>This application has more than 1,000+ Facebook installs</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tag Friends]]></title>
+    <link href="http://www.ideawide.com/tag-friends/"/>
+    <updated>2012-03-08T18:23:52+05:30</updated>
+    <id>http://www.ideawide.com/tag-friends</id>
+    <content type="html"><![CDATA[<p>Tag their friends with different animation characters or movie heroes.</p>
+
+<!-- more -->
+
+
+
+
+<div class="alert alert-error">
+Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
