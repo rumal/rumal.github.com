@@ -4,7 +4,7 @@
         <!-- Logo
         ================================================== -->
         <div class="span5 logo">
-            <a href="{{ root_url }}"><img src="{{ root_url }}/img/wonder-logo.png" alt=""/></a>
+            <a href="{{ root_url }}"><img src="{{ root_url }}/img/logo.png" alt=""/></a>
         </div>
 
         <!-- Main Navigation
