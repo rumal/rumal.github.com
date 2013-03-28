@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Desktop Applications | Ideawide]]></title>
-  <link href="http://www.ideawide.com/categories/desktop-applications/atom.xml" rel="self"/>
-  <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T01:31:41+05:30</updated>
-  <id>http://www.ideawide.com/</id>
+  <link href="http://rumal.github.com/categories/desktop-applications/atom.xml" rel="self"/>
+  <link href="http://rumal.github.com/"/>
+  <updated>2013-03-29T01:47:41+05:30</updated>
+  <id>http://rumal.github.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Anti noise generator for laptops]]></title>
-    <link href="http://www.ideawide.com/anti-noise-generator-for-laptops/"/>
+    <link href="http://rumal.github.com/anti-noise-generator-for-laptops/"/>
     <updated>2012-03-08T18:10:01+05:30</updated>
-    <id>http://www.ideawide.com/anti-noise-generator-for-laptops</id>
+    <id>http://rumal.github.com/anti-noise-generator-for-laptops</id>
     <content type="html"><![CDATA[<h2>Background</h2>
 
 <p>I was wondering whether I can create a software to reduce sounds in the environment. Ideally when I run the application it should remove the noise in the environment. Simply cancel of the noise or sounds in the environment. I was thinking of the same technology as the noise cancelling head phones. As I know what they do in simple terms is they get the noise in the environment and subtract it from the music we are listening to. So when we hear the music with the noise, the subtracted part is added and we only hear the music.

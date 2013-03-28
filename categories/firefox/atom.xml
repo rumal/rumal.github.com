@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Firefox | Ideawide]]></title>
-  <link href="http://www.ideawide.com/categories/firefox/atom.xml" rel="self"/>
-  <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T01:31:41+05:30</updated>
-  <id>http://www.ideawide.com/</id>
+  <link href="http://rumal.github.com/categories/firefox/atom.xml" rel="self"/>
+  <link href="http://rumal.github.com/"/>
+  <updated>2013-03-29T01:47:41+05:30</updated>
+  <id>http://rumal.github.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Download Unlimited]]></title>
-    <link href="http://www.ideawide.com/download-unlimited/"/>
+    <link href="http://rumal.github.com/download-unlimited/"/>
     <updated>2012-03-08T20:17:09+05:30</updated>
-    <id>http://www.ideawide.com/download-unlimited</id>
+    <id>http://rumal.github.com/download-unlimited</id>
     <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
 
 <p>Welcome to Download Unlimited Firefox Add-on homepage. This add-on will allow you to bypass restrictions on files size over the network. Basically it will modify the IP packet request to suit your network packet size and download chunks by chunk allowing you to bypass the file size restriction.If you can understand that you know everything on this page, no need to read further download the addon and enjoy.</p>
@@ -80,9 +80,9 @@ More than 70000+ downloads and over 8000+ active daily users. Have a look at the
   
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://www.ideawide.com/video-grabber/"/>
+    <link href="http://rumal.github.com/video-grabber/"/>
     <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://www.ideawide.com/video-grabber</id>
+    <id>http://rumal.github.com/video-grabber</id>
     <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
 
 <!-- more -->

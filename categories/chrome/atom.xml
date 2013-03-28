@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Chrome | Ideawide]]></title>
-  <link href="http://www.ideawide.com/categories/chrome/atom.xml" rel="self"/>
-  <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T01:31:41+05:30</updated>
-  <id>http://www.ideawide.com/</id>
+  <link href="http://rumal.github.com/categories/chrome/atom.xml" rel="self"/>
+  <link href="http://rumal.github.com/"/>
+  <updated>2013-03-29T01:47:41+05:30</updated>
+  <id>http://rumal.github.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://www.ideawide.com/video-grabber/"/>
+    <link href="http://rumal.github.com/video-grabber/"/>
     <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://www.ideawide.com/video-grabber</id>
+    <id>http://rumal.github.com/video-grabber</id>
     <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
 
 <!-- more -->

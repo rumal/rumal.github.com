@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: My Ideas | Ideawide]]></title>
-  <link href="http://www.ideawide.com/categories/my-ideas/atom.xml" rel="self"/>
-  <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T01:31:41+05:30</updated>
-  <id>http://www.ideawide.com/</id>
+  <link href="http://rumal.github.com/categories/my-ideas/atom.xml" rel="self"/>
+  <link href="http://rumal.github.com/"/>
+  <updated>2013-03-29T01:47:41+05:30</updated>
+  <id>http://rumal.github.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Appear Offline]]></title>
-    <link href="http://www.ideawide.com/appear-offline/"/>
+    <link href="http://rumal.github.com/appear-offline/"/>
     <updated>2012-03-08T20:24:52+05:30</updated>
-    <id>http://www.ideawide.com/appear-offline</id>
+    <id>http://rumal.github.com/appear-offline</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.</p>
@@ -33,9 +33,9 @@ Due to migration of Facebook Developer API this application is not currently fun
   
   <entry>
     <title type="html"><![CDATA[Download Unlimited]]></title>
-    <link href="http://www.ideawide.com/download-unlimited/"/>
+    <link href="http://rumal.github.com/download-unlimited/"/>
     <updated>2012-03-08T20:17:09+05:30</updated>
-    <id>http://www.ideawide.com/download-unlimited</id>
+    <id>http://rumal.github.com/download-unlimited</id>
     <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
 
 <p>Welcome to Download Unlimited Firefox Add-on homepage. This add-on will allow you to bypass restrictions on files size over the network. Basically it will modify the IP packet request to suit your network packet size and download chunks by chunk allowing you to bypass the file size restriction.If you can understand that you know everything on this page, no need to read further download the addon and enjoy.</p>
@@ -98,9 +98,9 @@ More than 70000+ downloads and over 8000+ active daily users. Have a look at the
   
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://www.ideawide.com/video-grabber/"/>
+    <link href="http://rumal.github.com/video-grabber/"/>
     <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://www.ideawide.com/video-grabber</id>
+    <id>http://rumal.github.com/video-grabber</id>
     <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
 
 <!-- more -->
@@ -183,9 +183,9 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
   
   <entry>
     <title type="html"><![CDATA[eWalker]]></title>
-    <link href="http://www.ideawide.com/ewalker/"/>
+    <link href="http://rumal.github.com/ewalker/"/>
     <updated>2012-03-08T20:03:29+05:30</updated>
-    <id>http://www.ideawide.com/ewalker</id>
+    <id>http://rumal.github.com/ewalker</id>
     <content type="html"><![CDATA[<h2>What is eWalker?</h2>
 
 <p>eWalker is an application that allows smart phones to be used as an interactive console featuring wireless gaming device, presentation tool or a keyboard with the use of technologies available on the smart phones such as Accelerometer. Mobile application was developed for Symbian OS using Python and desktop application was on Java.This is an undergraduate project we did for the Engineering Design module in 2010.</p>
@@ -208,7 +208,7 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
 <div class="tab-content">
   <div class="tab-pane active row-fluid" id="Presenter">
     <div class="span2">
-      <img src="http://www.ideawide.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://rumal.github.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker perfectly works as and wireless presenter with all the features a typical presenter have. Further more it also have added features like controlling the mouse movement gesture according to the tilt angle.
@@ -216,7 +216,7 @@ eWalker perfectly works as and wireless presenter with all the features a typica
   </div>
   <div class="tab-pane row-fluid" id="Joystick">
 <div class="span2">
-      <img src="http://www.ideawide.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://rumal.github.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker is capable of playing First Person Shooter games like Call of Duty, Counter Strike. Axis can be configured in the PC application and user can interactively play the game using the gestures.
@@ -224,7 +224,7 @@ eWalker is capable of playing First Person Shooter games like Call of Duty, Coun
   </div>
   <div class="tab-pane row-fluid" id="Wheel">
 <div class="span2">
-      <img src="http://www.ideawide.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://rumal.github.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 Playing games like Need For Speed are also supported in the Driving mode. Player will be able to use the phone as the driving wheel and the rotation are sensed and will be used to drive the vehicle on the game.
@@ -341,9 +341,9 @@ User manual can be download from <a href="http://ideawide.com/wp-content/uploads
   
   <entry>
     <title type="html"><![CDATA[Friend Utilities]]></title>
-    <link href="http://www.ideawide.com/friend-utilities/"/>
+    <link href="http://rumal.github.com/friend-utilities/"/>
     <updated>2012-03-08T18:29:32+05:30</updated>
-    <id>http://www.ideawide.com/friend-utilities</id>
+    <id>http://rumal.github.com/friend-utilities</id>
     <content type="html"><![CDATA[<p>This is an application that allows users to extend the functionality on Facebook. This basically and extended version of <a href="http://www.ideawide.com/appearing-offline/">Appearing Offline</a>. It has added support to add animated images to Facebook posts.</p>
 
 <p>This application has more than 1,000+ Facebook installs</p>
