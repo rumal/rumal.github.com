@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Symbian OS | Ideawide]]></title>
-  <link href="http://rumal.github.com/categories/symbian-os/atom.xml" rel="self"/>
-  <link href="http://rumal.github.com/"/>
-  <updated>2013-03-29T01:47:41+05:30</updated>
-  <id>http://rumal.github.com/</id>
+  <link href="http://www.ideawide.com/categories/symbian-os/atom.xml" rel="self"/>
+  <link href="http://www.ideawide.com/"/>
+  <updated>2013-03-29T02:20:24+05:30</updated>
+  <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[eWalker]]></title>
-    <link href="http://rumal.github.com/ewalker/"/>
+    <link href="http://www.ideawide.com/ewalker/"/>
     <updated>2012-03-08T20:03:29+05:30</updated>
-    <id>http://rumal.github.com/ewalker</id>
+    <id>http://www.ideawide.com/ewalker</id>
     <content type="html"><![CDATA[<h2>What is eWalker?</h2>
 
 <p>eWalker is an application that allows smart phones to be used as an interactive console featuring wireless gaming device, presentation tool or a keyboard with the use of technologies available on the smart phones such as Accelerometer. Mobile application was developed for Symbian OS using Python and desktop application was on Java.This is an undergraduate project we did for the Engineering Design module in 2010.</p>
@@ -40,7 +40,7 @@
 <div class="tab-content">
   <div class="tab-pane active row-fluid" id="Presenter">
     <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker perfectly works as and wireless presenter with all the features a typical presenter have. Further more it also have added features like controlling the mouse movement gesture according to the tilt angle.
@@ -48,7 +48,7 @@ eWalker perfectly works as and wireless presenter with all the features a typica
   </div>
   <div class="tab-pane row-fluid" id="Joystick">
 <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker is capable of playing First Person Shooter games like Call of Duty, Counter Strike. Axis can be configured in the PC application and user can interactively play the game using the gestures.
@@ -56,7 +56,7 @@ eWalker is capable of playing First Person Shooter games like Call of Duty, Coun
   </div>
   <div class="tab-pane row-fluid" id="Wheel">
 <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 Playing games like Need For Speed are also supported in the Driving mode. Player will be able to use the phone as the driving wheel and the rotation are sensed and will be used to drive the vehicle on the game.

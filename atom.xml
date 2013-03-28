@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ideawide]]></title>
-  <link href="http://rumal.github.com/atom.xml" rel="self"/>
-  <link href="http://rumal.github.com/"/>
-  <updated>2013-03-29T01:47:41+05:30</updated>
-  <id>http://rumal.github.com/</id>
+  <link href="http://www.ideawide.com/atom.xml" rel="self"/>
+  <link href="http://www.ideawide.com/"/>
+  <updated>2013-03-29T02:20:24+05:30</updated>
+  <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Appear Offline]]></title>
-    <link href="http://rumal.github.com/appear-offline/"/>
+    <link href="http://www.ideawide.com/appear-offline/"/>
     <updated>2012-03-08T20:24:52+05:30</updated>
-    <id>http://rumal.github.com/appear-offline</id>
+    <id>http://www.ideawide.com/appear-offline</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.</p>
@@ -33,9 +33,9 @@ Due to migration of Facebook Developer API this application is not currently fun
   
   <entry>
     <title type="html"><![CDATA[Download Unlimited]]></title>
-    <link href="http://rumal.github.com/download-unlimited/"/>
+    <link href="http://www.ideawide.com/download-unlimited/"/>
     <updated>2012-03-08T20:17:09+05:30</updated>
-    <id>http://rumal.github.com/download-unlimited</id>
+    <id>http://www.ideawide.com/download-unlimited</id>
     <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
 
 <p>Welcome to Download Unlimited Firefox Add-on homepage. This add-on will allow you to bypass restrictions on files size over the network. Basically it will modify the IP packet request to suit your network packet size and download chunks by chunk allowing you to bypass the file size restriction.If you can understand that you know everything on this page, no need to read further download the addon and enjoy.</p>
@@ -98,9 +98,9 @@ More than 70000+ downloads and over 8000+ active daily users. Have a look at the
   
   <entry>
     <title type="html"><![CDATA[Similarities]]></title>
-    <link href="http://rumal.github.com/similarities/"/>
+    <link href="http://www.ideawide.com/similarities/"/>
     <updated>2012-03-08T20:14:34+05:30</updated>
-    <id>http://rumal.github.com/similarities</id>
+    <id>http://www.ideawide.com/similarities</id>
     <content type="html"><![CDATA[<p>Find similarities among your friends.</p>
 
 <!-- more -->
@@ -119,9 +119,9 @@ Due to migration of Facebook Developer API this application is not currently fun
   
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://rumal.github.com/video-grabber/"/>
+    <link href="http://www.ideawide.com/video-grabber/"/>
     <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://rumal.github.com/video-grabber</id>
+    <id>http://www.ideawide.com/video-grabber</id>
     <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
 
 <!-- more -->
@@ -204,9 +204,9 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
   
   <entry>
     <title type="html"><![CDATA[eWalker]]></title>
-    <link href="http://rumal.github.com/ewalker/"/>
+    <link href="http://www.ideawide.com/ewalker/"/>
     <updated>2012-03-08T20:03:29+05:30</updated>
-    <id>http://rumal.github.com/ewalker</id>
+    <id>http://www.ideawide.com/ewalker</id>
     <content type="html"><![CDATA[<h2>What is eWalker?</h2>
 
 <p>eWalker is an application that allows smart phones to be used as an interactive console featuring wireless gaming device, presentation tool or a keyboard with the use of technologies available on the smart phones such as Accelerometer. Mobile application was developed for Symbian OS using Python and desktop application was on Java.This is an undergraduate project we did for the Engineering Design module in 2010.</p>
@@ -229,7 +229,7 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
 <div class="tab-content">
   <div class="tab-pane active row-fluid" id="Presenter">
     <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/presenter-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker perfectly works as and wireless presenter with all the features a typical presenter have. Further more it also have added features like controlling the mouse movement gesture according to the tilt angle.
@@ -237,7 +237,7 @@ eWalker perfectly works as and wireless presenter with all the features a typica
   </div>
   <div class="tab-pane row-fluid" id="Joystick">
 <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/joystick-300x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 eWalker is capable of playing First Person Shooter games like Call of Duty, Counter Strike. Axis can be configured in the PC application and user can interactively play the game using the gestures.
@@ -245,7 +245,7 @@ eWalker is capable of playing First Person Shooter games like Call of Duty, Coun
   </div>
   <div class="tab-pane row-fluid" id="Wheel">
 <div class="span2">
-      <img src="http://rumal.github.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
+      <img src="http://www.ideawide.com/img/apps/ewalker/wheel-273x300.png" alt="Alt text" class="img-rounded"/>
     </div>
     <div class="span10">
 Playing games like Need For Speed are also supported in the Driving mode. Player will be able to use the phone as the driving wheel and the rotation are sensed and will be used to drive the vehicle on the game.
@@ -362,9 +362,9 @@ User manual can be download from <a href="http://ideawide.com/wp-content/uploads
   
   <entry>
     <title type="html"><![CDATA[Friend Utilities]]></title>
-    <link href="http://rumal.github.com/friend-utilities/"/>
+    <link href="http://www.ideawide.com/friend-utilities/"/>
     <updated>2012-03-08T18:29:32+05:30</updated>
-    <id>http://rumal.github.com/friend-utilities</id>
+    <id>http://www.ideawide.com/friend-utilities</id>
     <content type="html"><![CDATA[<p>This is an application that allows users to extend the functionality on Facebook. This basically and extended version of <a href="http://www.ideawide.com/appearing-offline/">Appearing Offline</a>. It has added support to add animated images to Facebook posts.</p>
 
 <p>This application has more than 1,000+ Facebook installs</p>
@@ -373,9 +373,9 @@ User manual can be download from <a href="http://ideawide.com/wp-content/uploads
   
   <entry>
     <title type="html"><![CDATA[Data communication over audio]]></title>
-    <link href="http://rumal.github.com/data-communication-over-audio/"/>
+    <link href="http://www.ideawide.com/data-communication-over-audio/"/>
     <updated>2012-03-08T18:27:49+05:30</updated>
-    <id>http://rumal.github.com/data-communication-over-audio</id>
+    <id>http://www.ideawide.com/data-communication-over-audio</id>
     <content type="html"><![CDATA[<h2>Background</h2>
 
 <p>Few years back blue-tooth was introduced to as a near field communication medium. What if we can use the audio clips to do the same thing?Technically speaking it is just to encode the data stream to a carrier signal and you are done with the encoding part.  For the de-cording little bit of forward error correction might be needed as there can be data losses in the medium. But it is not technically impossible, I would say it is technically simple.</p>
@@ -397,9 +397,9 @@ User manual can be download from <a href="http://ideawide.com/wp-content/uploads
   
   <entry>
     <title type="html"><![CDATA[Tag Friends]]></title>
-    <link href="http://rumal.github.com/tag-friends/"/>
+    <link href="http://www.ideawide.com/tag-friends/"/>
     <updated>2012-03-08T18:23:52+05:30</updated>
-    <id>http://rumal.github.com/tag-friends</id>
+    <id>http://www.ideawide.com/tag-friends</id>
     <content type="html"><![CDATA[<p>Tag their friends with different animation characters or movie heroes.</p>
 
 <!-- more -->
@@ -418,9 +418,9 @@ Due to migration of Facebook Developer API this application is not currently fun
   
   <entry>
     <title type="html"><![CDATA[Surround sounds via ear phones]]></title>
-    <link href="http://rumal.github.com/surround-sounds-via-ear-phones/"/>
+    <link href="http://www.ideawide.com/surround-sounds-via-ear-phones/"/>
     <updated>2012-03-08T18:20:53+05:30</updated>
-    <id>http://rumal.github.com/surround-sounds-via-ear-phones</id>
+    <id>http://www.ideawide.com/surround-sounds-via-ear-phones</id>
     <content type="html"><![CDATA[<p>I  recently saw that on a Samsung Galaxy Y, that users have an option to switch between normal speakers mode or to 5.1 speakers. This is possible as even there are 10 different speakers, everything is heard from our two ears. So if we can simulate the sound effect generated from those speakers, we can add as many as speakers and the head phones will simulate it. No need to get the physical speakers, all you need is the simulation. My idea is to develop an application (as a start an android) that enable user to configure the speaker position and the volume. Our software will simulate the effect through the ear phone. Simple and yet interactive application. We are working on to make it compatible with the standard media player or to be used with any other media player.
 Currently we are developing this application and Lets see how far it will go.</p>
 ]]></content>
@@ -428,9 +428,9 @@ Currently we are developing this application and Lets see how far it will go.</p
   
   <entry>
     <title type="html"><![CDATA[Anti noise generator for laptops]]></title>
-    <link href="http://rumal.github.com/anti-noise-generator-for-laptops/"/>
+    <link href="http://www.ideawide.com/anti-noise-generator-for-laptops/"/>
     <updated>2012-03-08T18:10:01+05:30</updated>
-    <id>http://rumal.github.com/anti-noise-generator-for-laptops</id>
+    <id>http://www.ideawide.com/anti-noise-generator-for-laptops</id>
     <content type="html"><![CDATA[<h2>Background</h2>
 
 <p>I was wondering whether I can create a software to reduce sounds in the environment. Ideally when I run the application it should remove the noise in the environment. Simply cancel of the noise or sounds in the environment. I was thinking of the same technology as the noise cancelling head phones. As I know what they do in simple terms is they get the noise in the environment and subtract it from the music we are listening to. So when we hear the music with the noise, the subtracted part is added and we only hear the music.
@@ -442,9 +442,9 @@ Well I was thinking of doing it on the machine. Instead of subtracting it from a
   
   <entry>
     <title type="html"><![CDATA[Make Possible]]></title>
-    <link href="http://rumal.github.com/make-possible/"/>
+    <link href="http://www.ideawide.com/make-possible/"/>
     <updated>2012-03-08T17:26:42+05:30</updated>
-    <id>http://rumal.github.com/make-possible</id>
+    <id>http://www.ideawide.com/make-possible</id>
     <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>All over the world there are an enormous number of poor people who are in need. There are also potential donors  who  are  looking  to  help  such  individuals  and  groups.  This  project  proposes  an  IT  based  reliable solution to connect donors with such people and to make the donation process more effective.</p>
@@ -571,9 +571,9 @@ Well I was thinking of doing it on the machine. Instead of subtracting it from a
   
   <entry>
     <title type="html"><![CDATA[VideoSub Player]]></title>
-    <link href="http://rumal.github.com/video-with-subtitles/"/>
+    <link href="http://www.ideawide.com/video-with-subtitles/"/>
     <updated>2011-03-08T19:06:57+05:30</updated>
-    <id>http://rumal.github.com/video-with-subtitles</id>
+    <id>http://www.ideawide.com/video-with-subtitles</id>
     <content type="html"><![CDATA[<h2>Why Video Sub Player?</h2>
 
 <p>This is an online video player that can play any streaming link with added subtitles. No need to download the video just go to the site and play along with a subtitle you specify (or what we suggest).</p>

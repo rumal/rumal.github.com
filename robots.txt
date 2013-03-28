@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rumal.github.com/sitemap.xml 
+Sitemap: http://www.ideawide.com/sitemap.xml 
