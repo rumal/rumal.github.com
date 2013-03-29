@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2012-03-08 12:57:49
+date: 2012-02-03 12:57:49
 layout: post
 slug: data-communication-over-audio
 title: Data communication over audio

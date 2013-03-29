@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2011-03-08 13:36:57
+date: 2011-11-30 13:36:57
 layout: post
 slug: video-with-subtitles
 title: VideoSub Player

@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2012-03-08 14:44:34
+date: 2011-07-18 14:44:34
 layout: post
 slug: similarities
 title: Similarities

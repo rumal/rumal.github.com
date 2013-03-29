@@ -1,10 +1,9 @@
 ---
 comments: true
-date: 2012-03-08 11:56:42
+date: 2010-05-28 11:56:42
 layout: post
 slug: make-possible
 title: Make Possible
-wordpress_id: 2
 categories:
 - Developed
 - My Ideas

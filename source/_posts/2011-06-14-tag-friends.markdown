@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2012-03-08 12:53:52
+date: 2011-06-24 12:53:52
 layout: post
 slug: tag-friends
 title: Tag Friends

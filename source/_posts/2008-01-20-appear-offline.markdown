@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2012-03-08 14:54:52
+date: 2008-01-20 14:54:52
 layout: post
 slug: appear-offline
 title: Appear Offline
@@ -17,11 +17,10 @@ tags:
 img: appearing-offline.png
 publish-facebook: http://apps.facebook.com/offlinethieves/
 users: 5,000
+des: Find who are appearing offline on Facebook
 ---
-Find who are appearing offline on Facebook
 
-<!-- more -->
-
+##Introduction
 This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.
 
 <div class="alert alert-error">

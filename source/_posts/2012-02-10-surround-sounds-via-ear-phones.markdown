@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2012-03-08 12:50:53
+date: 2012-02-10 12:50:53
 layout: post
 slug: surround-sounds-via-ear-phones
 title: Surround sounds via ear phones
