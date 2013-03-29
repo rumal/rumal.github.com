@@ -10,12 +10,14 @@ categories:
 - Developed
 - Firefox
 - My Ideas
+- Open Source
 tags:
 - js
 - xul
 
 img: download-unlimited.png
 publish-firefox: https://addons.mozilla.org/en-US/firefox/addon/download-unlimited
+publish-github: https://github.com/rumal/Download-Unlimited
 users: 70,000
 des: Bypass restrictions on files size over the network.
 ---

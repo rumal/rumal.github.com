@@ -10,6 +10,7 @@ categories:
 - Developed
 - Firefox
 - My Ideas
+- Open Source
 tags:
 - chrome
 - firefox
@@ -19,13 +20,11 @@ tags:
 img: video-grabber.png
 publish-firefox: https://addons.mozilla.org/en-US/firefox/addon/video-grabber/
 publish-chrome: https://chrome.google.com/webstore/detail/video-grabber/keinlcafjoaeegnnbmokjfbkkgfmpljh
+des: Grab online vidoes to watch them with subtitles.
 users: 43,000
 ---
 
-Grab online vidoes to watch them with subtitles.
-
-<!-- more -->
-
+##Introduction
 This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.
 
 <div class="alert alert-info">

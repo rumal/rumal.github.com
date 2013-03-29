@@ -5,7 +5,7 @@ layout: post
 slug: data-communication-over-audio
 title: Data communication over audio
 categories:
-- Andorid
+- Android
 - Mobile
 - My Ideas
 - Under Development
