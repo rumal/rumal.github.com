@@ -1,0 +1,23 @@
+---
+layout: post
+title: singlish
+date: 2013-02-10 10:24
+comments: true
+categories:
+- Developed
+- My Ideas
+- Chrome
+- Open Source
+
+tags:
+- html-js
+- xul
+
+img: singlish.jpg
+publish-chrome: https://chrome.google.com/webstore/detail/singlish-translator/ajmaflbgbmjfamijaoaplckhdjdmmomd
+publish-github: https://github.com/rumal/singlish
+des: Singlish Translator for chrome
+---
+
+##Introduction
+Singlish Translator
