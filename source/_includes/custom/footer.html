@@ -1,17 +1,24 @@
-<!-- Footer Area
-            ================================================== -->
+    <!-- Footer Area
+    ================================================== -->
     <div class="footer-container"><!-- Begin Footer -->
-    	<div class="container">
+        <div class="container">
             <div class="row"><!-- Begin Sub Footer -->
                 <div class="span12 footer-col footer-sub">
                     <div class="row no-margin">
-                        <div class="span6"><span class="left">
-Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
- Powered by <a href="http://octopress.org">Octopress</a> 
- Hosted at <a href="http://github.org">Github</a>
-</span></div>
-                </div>
-            </div><!-- End Sub Footer -->
-
+                        <span class="left span12">
+                                Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }}
+                                |Theme Based on <a href="http://twitter.github.com" title="Sleek, intuitive, and powerful front-end framework for faster and easier web development.">Twitter Bootstrap</a>
+                                |Powered by <a href="http://octopress.org" title="A blogging framework for hackers.">Octopress</a> 
+                                |Hosted at <a href="http://github.org" title="Build software better, together.">Github</a>
+                            </span>
+                    </div>
+                </div><!-- End Sub Footer -->
+                <script type="text/javascript">
+                    head.js("{{ root_url }}/js/bootstrap.js",
+                    "{{ root_url }}/js/jquery.prettyPhoto.js", "{{ root_url }}/js/jquery.flexslider.js",
+                    "{{ root_url }}/js/jquery.easing.1.3.js", "{{ root_url }}/js/jquery.quicksand.js",
+                    "{{ root_url }}/js/jquery.custom.js");
+                </script>
+            </div>
         </div>
-    </div><!-- End Footer --> 
+    </div> <!-- End Footer --> 
