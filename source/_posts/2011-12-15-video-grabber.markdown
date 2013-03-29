@@ -60,40 +60,40 @@ Change log is found [here](http://ideawide.com/video-sub-grabber-change-log/).
 
 ## Frequently Asked Questions
 
-### What video streaming sites are compatible?
+#### What video streaming sites are compatible?
 
 I do not know what people read. Yes with the new version all the streaming providers are supported
 
-### I am getting a cross domain error when player is loaded
+#### I am getting a cross domain error when player is loaded
 
 Upgrade to the new version of the addon.
 
 
-### Is subtitles are automatically added?
+#### Is subtitles are automatically added?
 
 Current version required users to add subtitles manually. Next version will automatically add subtitles
 
-### Mega video links expire after 72 hours
+#### Mega video links expire after 72 hours
 
 This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)
 
-### Can I watch any place on the video/Can I jump into the middle of the movie before loading?
+#### Can I watch any place on the video/Can I jump into the middle of the movie before loading?
 
 Only few of the providers allow that. We are working on that.
 
-### Can I download the movie after watching?
+#### Can I download the movie after watching?
 
 Yes you can download from the link below the video if you want.
 
-### Is add-on needed to play using the video sub player?
+#### Is add-on needed to play using the video sub player?
 
 Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon
 
-### Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?
+#### Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?
 
 No better use our addon. It will grab the video files for you.
 
-### Can I play local files on Video Sub Player?
+#### Can I play local files on Video Sub Player?
 
 Currently no but working on to add that feature.
 
