@@ -7,7 +7,7 @@
             <meta name="author" content="Pasindu Perera"/>
 
             
-            <meta name="description" content="<!-- Gallery Items ================================================== --> Gsheet2json Date: Feb 20th, 2013 Technologies used: html-js and google- &hellip;"/>
+            <meta name="description" content="<!-- Gallery Items ================================================== --> Gsheet2json JS object to easily read from publicly hosted Google &hellip;"/>
             
 
             <!-- http://t.co/dKP3o1e -->
@@ -155,12 +155,12 @@
 
             <div class="row">
                 <div class="span6">
-                    <img src="/img/apps/" class="thumbnail span5" alt="Gsheet2json">
+                    <img src="/img/apps/gsheet2json.png" class="thumbnail span5" alt="Gsheet2json">
                 </div>
                 <div class="span6">
                     <h2>Gsheet2json</h2>
 		    
-                    <p class="lead"></p>
+                    <p class="lead">JS object to easily read from publicly hosted Google spreadsheets.</p>
 
 		        <ul class="project-info">
         <li><h6>Date:</h6> 
@@ -191,6 +191,10 @@
 	
 
 
+        
+        <li class="alert alert-warning"><h6>Source on Github:</h6> <a href="https://github.com/rumal/Gsheet2json">https://github.com/rumal/Gsheet2json</a></li>
+	
+        
 	
 
 	
@@ -240,7 +244,62 @@
 </div>
 <hr/>
 <div class="row">
-  
+  <h1>Gsheet2json</h1>
+
+<p>A Java script object to easily read from publicly hosted Google spreadsheets. You can use it as a database for your web application</p>
+
+<h3>Quick Start</h3>
+
+<ul>
+<li>Download and include <a href="https://raw.github.com/rumal/Gsheet2json/master/js/gsheet2json.js">gsheet2json.js</a> to your project.</li>
+<li></li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>var sheet = new spreadSheet(
+</span><span class='line'>              {url to the publicly hosted spreadsheet},
+</span><span class='line'>              {fieldlist as an array},
+</span><span class='line'>              {success function}
+</span><span class='line'>    );</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Use <code>sheet.getAsArray()</code> or <code>sheet.getAsObjects()</code></li>
+</ul>
+
+
+<h3>Example</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;script type="text/javascript" src="js/gsheet2json.js"&gt;&lt;/script&gt;
+</span><span class='line'>&lt;script&gt;
+</span><span class='line'>  var fields = ["URL", "Speaker", "Name", "Short Summary", "Event","Duration", "Publish date"];
+</span><span class='line'>  var sheet = new spreadSheet(
+</span><span class='line'>      "https://docs.google.com/spreadsheet/ccc?key=0AsKzpC8gYBmTcGpHbFlILThBSzhmZkRhNm8yYllsWGc&gid=0",
+</span><span class='line'>      fields,
+</span><span class='line'>      function(data) {
+</span><span class='line'>         console.log(data.getAsObjects());
+</span><span class='line'>         console.log(data.getAsArray());
+</span><span class='line'>      });
+</span><span class='line'>&lt;/script&gt;</span></code></pre></td></tr></table></div></figure>
+
+
+<p><a href="http://jsfiddle.net/pasindur/EsGmX/">http://jsfiddle.net/pasindur/EsGmX/</a></p>
 
 </div>
 <div class="row">

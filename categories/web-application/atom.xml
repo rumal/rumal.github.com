@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Application | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/web-application/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:41:34+05:30</updated>
+  <updated>2013-03-29T10:54:33+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -18,7 +18,50 @@
     <link href="http://www.ideawide.com/gsheet2json/"/>
     <updated>2013-02-20T10:36:00+05:30</updated>
     <id>http://www.ideawide.com/gsheet2json</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>Gsheet2json</h1>
+
+<p>A Java script object to easily read from publicly hosted Google spreadsheets. You can use it as a database for your web application</p>
+
+<h3>Quick Start</h3>
+
+<ul>
+<li>Download and include <a href="https://raw.github.com/rumal/Gsheet2json/master/js/gsheet2json.js">gsheet2json.js</a> to your project.</li>
+<li><p>```
+var sheet = new spreadSheet(</p>
+
+<pre><code>         {url to the publicly hosted spreadsheet},
+         {fieldlist as an array},
+         {success function}
+</code></pre>
+
+<p>   );
+```</p></li>
+<li>Use <code>sheet.getAsArray()</code> or <code>sheet.getAsObjects()</code></li>
+</ul>
+
+
+<h3>Example</h3>
+
+<p>```</p>
+
+<script type="text/javascript" src="js/gsheet2json.js"></script>
+
+
+<script>
+  var fields = ["URL", "Speaker", "Name", "Short Summary", "Event","Duration", "Publish date"];
+  var sheet = new spreadSheet(
+      "https://docs.google.com/spreadsheet/ccc?key=0AsKzpC8gYBmTcGpHbFlILThBSzhmZkRhNm8yYllsWGc&gid=0",
+      fields,
+      function(data) {
+         console.log(data.getAsObjects());
+         console.log(data.getAsArray());
+      });
+</script>
+
+
+<p>```</p>
+
+<p><a href="http://jsfiddle.net/pasindur/EsGmX/">http://jsfiddle.net/pasindur/EsGmX/</a></p>
 ]]></content>
   </entry>
   

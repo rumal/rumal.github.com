@@ -4,7 +4,7 @@
   <title><![CDATA[Ideawide]]></title>
   <link href="http://www.ideawide.com/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:41:34+05:30</updated>
+  <updated>2013-03-29T10:54:33+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -30,7 +30,62 @@ Main objective is to turn off all the lights with the minimum amount of switch t
     <link href="http://www.ideawide.com/gsheet2json/"/>
     <updated>2013-02-20T10:36:00+05:30</updated>
     <id>http://www.ideawide.com/gsheet2json</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>Gsheet2json</h1>
+
+<p>A Java script object to easily read from publicly hosted Google spreadsheets. You can use it as a database for your web application</p>
+
+<h3>Quick Start</h3>
+
+<ul>
+<li>Download and include <a href="https://raw.github.com/rumal/Gsheet2json/master/js/gsheet2json.js">gsheet2json.js</a> to your project.</li>
+<li></li>
+</ul>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>var sheet = new spreadSheet(
+</span><span class='line'>              {url to the publicly hosted spreadsheet},
+</span><span class='line'>              {fieldlist as an array},
+</span><span class='line'>              {success function}
+</span><span class='line'>    );</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Use <code>sheet.getAsArray()</code> or <code>sheet.getAsObjects()</code></li>
+</ul>
+
+
+<h3>Example</h3>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;script type="text/javascript" src="js/gsheet2json.js"&gt;&lt;/script&gt;
+</span><span class='line'>&lt;script&gt;
+</span><span class='line'>  var fields = ["URL", "Speaker", "Name", "Short Summary", "Event","Duration", "Publish date"];
+</span><span class='line'>  var sheet = new spreadSheet(
+</span><span class='line'>      "https://docs.google.com/spreadsheet/ccc?key=0AsKzpC8gYBmTcGpHbFlILThBSzhmZkRhNm8yYllsWGc&gid=0",
+</span><span class='line'>      fields,
+</span><span class='line'>      function(data) {
+</span><span class='line'>         console.log(data.getAsObjects());
+</span><span class='line'>         console.log(data.getAsArray());
+</span><span class='line'>      });
+</span><span class='line'>&lt;/script&gt;</span></code></pre></td></tr></table></div></figure>
+
+
+<p><a href="http://jsfiddle.net/pasindur/EsGmX/">http://jsfiddle.net/pasindur/EsGmX/</a></p>
 ]]></content>
   </entry>
   
