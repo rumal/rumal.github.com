@@ -9,6 +9,10 @@
 	{% endif %}
 
 
+        {% if page.publish-github %}
+        <li class="alert alert-warning"><h6>Source on Github:</h6> <a href="{{ page.publish-github }}">{{ page.publish-github }}</a></li>
+	{% endif %}
+        
 	{% if page.publish-facebook %}
         <li class="alert alert-success"><h6>Application on Facebook:</h6> <a href="{{ page.publish-facebook }}">{{ page.publish-facebook }}</a></li>
 	{% endif %}
