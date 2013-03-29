@@ -18,6 +18,7 @@ tags:
 - xul
 
 img: video-grabber.png
+publish-github: https://github.com/rumal/Video-Grabber
 publish-firefox: https://addons.mozilla.org/en-US/firefox/addon/video-grabber/
 publish-chrome: https://chrome.google.com/webstore/detail/video-grabber/keinlcafjoaeegnnbmokjfbkkgfmpljh
 des: Grab online vidoes to watch them with subtitles.
