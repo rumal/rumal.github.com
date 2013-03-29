@@ -4,7 +4,7 @@
   <title><![CDATA[Category: My Ideas | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/my-ideas/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:23:17+05:30</updated>
+  <updated>2013-03-29T10:41:34+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lights-off]]></title>
+    <link href="http://www.ideawide.com/lights-off/"/>
+    <updated>2013-03-19T10:24:00+05:30</updated>
+    <id>http://www.ideawide.com/lights-off</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Simple mobile application to the world famous Lights Off game.
+Main objective is to turn off all the lights with the minimum amount of switch toggles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gsheet2json]]></title>
+    <link href="http://www.ideawide.com/gsheet2json/"/>
+    <updated>2013-02-20T10:36:00+05:30</updated>
+    <id>http://www.ideawide.com/gsheet2json</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Surround sounds via ear phones]]></title>
@@ -52,10 +73,7 @@ Currently we are developing this application and Lets see how far it will go.</p
     <link href="http://www.ideawide.com/video-grabber/"/>
     <updated>2011-12-15T20:08:00+05:30</updated>
     <id>http://www.ideawide.com/video-grabber</id>
-    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
-
-<!-- more -->
-
+    <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
 
@@ -129,121 +147,6 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
 <h4>Can I play local files on Video Sub Player?</h4>
 
 <p>Currently no but working on to add that feature.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[VideoSub Player]]></title>
-    <link href="http://www.ideawide.com/video-with-subtitles/"/>
-    <updated>2011-11-30T19:06:57+05:30</updated>
-    <id>http://www.ideawide.com/video-with-subtitles</id>
-    <content type="html"><![CDATA[<h2>Why Video Sub Player?</h2>
-
-<p>This is an online video player that can play any streaming link with added subtitles. No need to download the video just go to the site and play along with a subtitle you specify (or what we suggest).</p>
-
-<div class="alert alert-info">
-Have a Look at the <a href="http://vsp.ideawide.com/">VideoSubPlayer</a> before moving on
-</div>
-
-
-<p>Since some hosting providers have restricted their access to other servers and the file path to the streaming url is complex, I have developed an Firefox Addon that will do all the hard work for you. Basically when it is enabled it will grab videos on the sites you browse and take you to VideoSub Player. It will also bypass any security restriction opposed to stop cross domain streaming.</p>
-
-<p>For more information on Video Grabber can be found <a href="http://www.ideawide.com/video-sub-grabber/">here</a>.</p>
-
-<p>Video Grabber can be download from <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/">Firefox Repository</a></p>
-
-<h2>Introductory Video</h2>
-
-<iframe src="http://www.youtube.com/embed/5kt7mIsLFU4" frameborder="0" width="480" height="360"></iframe>
-
-
-<h2>Features</h2>
-
-<p>Here are some of the features of the VideoSub Player</p>
-
-<ul>
-<li>Free</li>
-<li>Any Video File</li>
-<li>Any Modern Browser (How ever the grabber is only for Firefox)</li>
-<li>Subtitle suggesting</li>
-<li>Other Streaming links (Experimental)</li>
-<li>Any Streaming Provider</li>
-<li>Pseudo streaming (if Server supports)</li>
-<li>Convenient</li>
-<li>Movie details via IMDB</li>
-<li>HTML5 or Flash</li>
-</ul>
-
-
-<div class="alert alert-warning">
-Currently the player is deployed for pre alpha and contains minor bugs if your found any bugs please post them on the <a href="https://ideawide.uservoice.com">support forum</a>.
-</div>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Download Unlimited]]></title>
-    <link href="http://www.ideawide.com/download-unlimited/"/>
-    <updated>2011-11-10T20:17:09+05:30</updated>
-    <id>http://www.ideawide.com/download-unlimited</id>
-    <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
-
-<p>Welcome to Download Unlimited Firefox Add-on homepage. This add-on will allow you to bypass restrictions on files size over the network. Basically it will modify the IP packet request to suit your network packet size and download chunks by chunk allowing you to bypass the file size restriction.If you can understand that you know everything on this page, no need to read further download the addon and enjoy.</p>
-
-<div class="alert alert-info">
-More than 70000+ downloads and over 8000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/download-unlimited/statistics/">Firefox Statistic Dashboard</a>
-</div>
-
-
-<h2>Why Download Unlimited?</h2>
-
-<p>Download Unlimited will allow you to download most of the files even there are restrictions to limit file size. Most of the work and educational entity networks are restricted and only able to download files smaller than a certain size. This addon is developed to lift those restrictions and allow users to download any file over the network.</p>
-
-<h3>Here are some of the features of the Download Unlimited</h3>
-
-<ul>
-<li>Free</li>
-<li>Any File</li>
-<li>Any Operating system</li>
-<li>No Softwares (executable)</li>
-<li>Support for Video streaming</li>
-<li>Convenient</li>
-</ul>
-
-
-<h2>How it works</h2>
-
-<p>When the add-on is enabledYou can enable by clicking on its icon situated on the right bottom corner it will look for large files on the pages you browse. If it found out any file that is larger than the limit specified it will try to divide it in to parts and download the file form the network and then put those pieces together to form the original file.</p>
-
-<h2>Limitations/Future updates</h2>
-
-<p>Current version is only capable of assembling and de-assembling parts if the file is restricted. So you might need a download accelerator to grab all the parts of the file. We recommend DownThemAll addon which is a free Firefox download accelerator addon.</p>
-
-<p><a href="https://addons.mozilla.org/en-US/firefox/addon/downthemall/">DownThemAll Addon</a></p>
-
-<p>Keep in mind that some of the file hosting providers does not allow users to download files by parts or resume the download from the previous location if you pause. If you are downloading files from those hosting providers, you may not be able to download the files as server it self will reject your request. Here are the file hosting providers we tested. If you have a premium account you do not need to worry about any of these.</p>
-
-<h3>Compatible File Hosting Providers</h3>
-
-<ul>
-<li><p><a href="http://en.wikipedia.org/wiki/MediaFire">MediaFire</a></p></li>
-<li><p><a href="http://en.wikipedia.org/wiki/Dropbox_%28storage_provider%29">Dropbox</a></p></li>
-<li><p><a href="http://en.wikipedia.org/w/index.php?title=PutLocker&amp;action=edit&amp;redlink=1">PutLocker</a></p></li>
-<li><p><a href="http://en.wikipedia.org/w/index.php?title=FileSplat.com&amp;action=edit&amp;redlink=1">FileSplat</a></p></li>
-<li><p><a href="http://en.wikipedia.org/w/index.php?title=Partage-Facile&amp;action=edit&amp;redlink=1">Partage-Facile</a></p></li>
-<li><p><a href="http://en.wikipedia.org/w/index.php?title=Extabit&amp;action=edit&amp;redlink=1">Extabit</a></p></li>
-</ul>
-
-
-<h3>Not Compatible File Hosting Providers</h3>
-
-<ul>
-<li><p><a href="http://en.wikipedia.org/wiki/RapidShare">RapidShare</a></p></li>
-<li><p><a href="http://en.wikipedia.org/wiki/Fileserve">Fileserve</a></p></li>
-<li><p><a href="http://en.wikipedia.org/wiki/Hotfile">Hotfile</a></p></li>
-</ul>
-
 ]]></content>
   </entry>
   

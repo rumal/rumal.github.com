@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Addons | Ideawide]]></title>
-  <link href="http://www.ideawide.com/categories/addons/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Open Source | Ideawide]]></title>
+  <link href="http://www.ideawide.com/categories/open-source/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
   <updated>2013-03-29T10:41:34+05:30</updated>
   <id>http://www.ideawide.com/</id>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lights-off]]></title>
+    <link href="http://www.ideawide.com/lights-off/"/>
+    <updated>2013-03-19T10:24:00+05:30</updated>
+    <id>http://www.ideawide.com/lights-off</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Simple mobile application to the world famous Lights Off game.
+Main objective is to turn off all the lights with the minimum amount of switch toggles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gsheet2json]]></title>
+    <link href="http://www.ideawide.com/gsheet2json/"/>
+    <updated>2013-02-20T10:36:00+05:30</updated>
+    <id>http://www.ideawide.com/gsheet2json</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Firefox | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/firefox/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:23:17+05:30</updated>
+  <updated>2013-03-29T10:41:34+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -18,10 +18,7 @@
     <link href="http://www.ideawide.com/video-grabber/"/>
     <updated>2011-12-15T20:08:00+05:30</updated>
     <id>http://www.ideawide.com/video-grabber</id>
-    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
-
-<!-- more -->
-
+    <content type="html"><![CDATA[<h2>Introduction</h2>
 
 <p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mobile | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/mobile/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:23:17+05:30</updated>
+  <updated>2013-03-29T10:41:34+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lights-off]]></title>
+    <link href="http://www.ideawide.com/lights-off/"/>
+    <updated>2013-03-19T10:24:00+05:30</updated>
+    <id>http://www.ideawide.com/lights-off</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Simple mobile application to the world famous Lights Off game.
+Main objective is to turn off all the lights with the minimum amount of switch toggles.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Surround sounds via ear phones]]></title>
