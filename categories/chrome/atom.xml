@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chrome | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/chrome/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T02:30:26+05:30</updated>
+  <updated>2013-03-29T10:23:17+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Video Grabber]]></title>
     <link href="http://www.ideawide.com/video-grabber/"/>
-    <updated>2012-03-08T20:08:00+05:30</updated>
+    <updated>2011-12-15T20:08:00+05:30</updated>
     <id>http://www.ideawide.com/video-grabber</id>
     <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
 
@@ -60,39 +60,39 @@ More than 15000+ downloads already and 2000+ active daily users. Have a look at 
 
 <h2>Frequently Asked Questions</h2>
 
-<h3>What video streaming sites are compatible?</h3>
+<h4>What video streaming sites are compatible?</h4>
 
 <p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
 
-<h3>I am getting a cross domain error when player is loaded</h3>
+<h4>I am getting a cross domain error when player is loaded</h4>
 
 <p>Upgrade to the new version of the addon.</p>
 
-<h3>Is subtitles are automatically added?</h3>
+<h4>Is subtitles are automatically added?</h4>
 
 <p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
 
-<h3>Mega video links expire after 72 hours</h3>
+<h4>Mega video links expire after 72 hours</h4>
 
 <p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
 
-<h3>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h3>
+<h4>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h4>
 
 <p>Only few of the providers allow that. We are working on that.</p>
 
-<h3>Can I download the movie after watching?</h3>
+<h4>Can I download the movie after watching?</h4>
 
 <p>Yes you can download from the link below the video if you want.</p>
 
-<h3>Is add-on needed to play using the video sub player?</h3>
+<h4>Is add-on needed to play using the video sub player?</h4>
 
 <p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
 
-<h3>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h3>
+<h4>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h4>
 
 <p>No better use our addon. It will grab the video files for you.</p>
 
-<h3>Can I play local files on Video Sub Player?</h3>
+<h4>Can I play local files on Video Sub Player?</h4>
 
 <p>Currently no but working on to add that feature.</p>
 ]]></content>

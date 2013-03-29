@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Addons | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/addons/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T02:30:26+05:30</updated>
+  <updated>2013-03-29T10:23:17+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -14,9 +14,94 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Video Grabber]]></title>
+    <link href="http://www.ideawide.com/video-grabber/"/>
+    <updated>2011-12-15T20:08:00+05:30</updated>
+    <id>http://www.ideawide.com/video-grabber</id>
+    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
+
+<!-- more -->
+
+
+<p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
+
+<div class="alert alert-info">
+More than 15000+ downloads already and 2000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/statistics/">Firefox Statistic Dashboard</a>
+</div>
+
+
+<h2>Why Video Sub Grabber?</h2>
+
+<p>People tends to download videos(specially Movies and TV series) just because they want to play them with subtitles. There are plenty of websites which allows users to play movies or TV series online but does not have subtitles. This is where Video Sub Player comes in to play. Video Sub Player will allow you to play those movies with subtitles.</p>
+
+<p>This is why you should choose Video Sub Player instead of any other web playe</p>
+
+<ul>
+<li>Free</li>
+<li>Any Video Streaming Site</li>
+<li>Can Download the video</li>
+<li>No Softwares (executable)</li>
+<li>Any subtitle language</li>
+<li>Convenient</li>
+</ul>
+
+
+<h2>How it works</h2>
+
+<p>When the addon is enabledYou can enable by clicking on its icon situated on the right bottom corner, it will look for videos on the pages you browse. If it found out any matching video on the page it will grab it and open from Video Sub Player. You can then specify the subtitles you want to play the video with. Currently you need to manually specify the subtitlesCheck Limitations section.</p>
+
+<p>Video Sub player is a player I developed and can be found at <a href="http://vsp.ideawide.com/">http://vsp.ideawide.com/</a></p>
+
+<h2>Limitations/Future updates</h2>
+
+<p>Current version is not capable of finding subtitles for a given video, but we are working on to provide that service as well. We  had some issues with some video providers due to cross domain policy and now it is completely solved(Add-on needs to be installed to play any videos due to cross domain policy restriction).</p>
+
+<p>Change log is found <a href="http://ideawide.com/video-sub-grabber-change-log/">here</a>.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h4>What video streaming sites are compatible?</h4>
+
+<p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
+
+<h4>I am getting a cross domain error when player is loaded</h4>
+
+<p>Upgrade to the new version of the addon.</p>
+
+<h4>Is subtitles are automatically added?</h4>
+
+<p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
+
+<h4>Mega video links expire after 72 hours</h4>
+
+<p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
+
+<h4>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h4>
+
+<p>Only few of the providers allow that. We are working on that.</p>
+
+<h4>Can I download the movie after watching?</h4>
+
+<p>Yes you can download from the link below the video if you want.</p>
+
+<h4>Is add-on needed to play using the video sub player?</h4>
+
+<p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
+
+<h4>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h4>
+
+<p>No better use our addon. It will grab the video files for you.</p>
+
+<h4>Can I play local files on Video Sub Player?</h4>
+
+<p>Currently no but working on to add that feature.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Download Unlimited]]></title>
     <link href="http://www.ideawide.com/download-unlimited/"/>
-    <updated>2012-03-08T20:17:09+05:30</updated>
+    <updated>2011-11-10T20:17:09+05:30</updated>
     <id>http://www.ideawide.com/download-unlimited</id>
     <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
 
@@ -75,91 +160,6 @@ More than 70000+ downloads and over 8000+ active daily users. Have a look at the
 <li><p><a href="http://en.wikipedia.org/wiki/Hotfile">Hotfile</a></p></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://www.ideawide.com/video-grabber/"/>
-    <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://www.ideawide.com/video-grabber</id>
-    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
-
-<!-- more -->
-
-
-<p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
-
-<div class="alert alert-info">
-More than 15000+ downloads already and 2000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/statistics/">Firefox Statistic Dashboard</a>
-</div>
-
-
-<h2>Why Video Sub Grabber?</h2>
-
-<p>People tends to download videos(specially Movies and TV series) just because they want to play them with subtitles. There are plenty of websites which allows users to play movies or TV series online but does not have subtitles. This is where Video Sub Player comes in to play. Video Sub Player will allow you to play those movies with subtitles.</p>
-
-<p>This is why you should choose Video Sub Player instead of any other web playe</p>
-
-<ul>
-<li>Free</li>
-<li>Any Video Streaming Site</li>
-<li>Can Download the video</li>
-<li>No Softwares (executable)</li>
-<li>Any subtitle language</li>
-<li>Convenient</li>
-</ul>
-
-
-<h2>How it works</h2>
-
-<p>When the addon is enabledYou can enable by clicking on its icon situated on the right bottom corner, it will look for videos on the pages you browse. If it found out any matching video on the page it will grab it and open from Video Sub Player. You can then specify the subtitles you want to play the video with. Currently you need to manually specify the subtitlesCheck Limitations section.</p>
-
-<p>Video Sub player is a player I developed and can be found at <a href="http://vsp.ideawide.com/">http://vsp.ideawide.com/</a></p>
-
-<h2>Limitations/Future updates</h2>
-
-<p>Current version is not capable of finding subtitles for a given video, but we are working on to provide that service as well. We  had some issues with some video providers due to cross domain policy and now it is completely solved(Add-on needs to be installed to play any videos due to cross domain policy restriction).</p>
-
-<p>Change log is found <a href="http://ideawide.com/video-sub-grabber-change-log/">here</a>.</p>
-
-<h2>Frequently Asked Questions</h2>
-
-<h3>What video streaming sites are compatible?</h3>
-
-<p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
-
-<h3>I am getting a cross domain error when player is loaded</h3>
-
-<p>Upgrade to the new version of the addon.</p>
-
-<h3>Is subtitles are automatically added?</h3>
-
-<p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
-
-<h3>Mega video links expire after 72 hours</h3>
-
-<p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
-
-<h3>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h3>
-
-<p>Only few of the providers allow that. We are working on that.</p>
-
-<h3>Can I download the movie after watching?</h3>
-
-<p>Yes you can download from the link below the video if you want.</p>
-
-<h3>Is add-on needed to play using the video sub player?</h3>
-
-<p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
-
-<h3>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h3>
-
-<p>No better use our addon. It will grab the video files for you.</p>
-
-<h3>Can I play local files on Video Sub Player?</h3>
-
-<p>Currently no but working on to add that feature.</p>
 ]]></content>
   </entry>
   

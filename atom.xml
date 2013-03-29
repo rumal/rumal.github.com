@@ -4,7 +4,7 @@
   <title><![CDATA[Ideawide]]></title>
   <link href="http://www.ideawide.com/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T02:30:26+05:30</updated>
+  <updated>2013-03-29T10:23:17+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -14,19 +14,170 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Appear Offline]]></title>
-    <link href="http://www.ideawide.com/appear-offline/"/>
-    <updated>2012-03-08T20:24:52+05:30</updated>
-    <id>http://www.ideawide.com/appear-offline</id>
-    <content type="html"><![CDATA[<h2>Introduction</h2>
+    <title type="html"><![CDATA[Surround sounds via ear phones]]></title>
+    <link href="http://www.ideawide.com/surround-sounds-via-ear-phones/"/>
+    <updated>2012-02-10T18:20:53+05:30</updated>
+    <id>http://www.ideawide.com/surround-sounds-via-ear-phones</id>
+    <content type="html"><![CDATA[<p>I  recently saw that on a Samsung Galaxy Y, that users have an option to switch between normal speakers mode or to 5.1 speakers. This is possible as even there are 10 different speakers, everything is heard from our two ears. So if we can simulate the sound effect generated from those speakers, we can add as many as speakers and the head phones will simulate it. No need to get the physical speakers, all you need is the simulation. My idea is to develop an application (as a start an android) that enable user to configure the speaker position and the volume. Our software will simulate the effect through the ear phone. Simple and yet interactive application. We are working on to make it compatible with the standard media player or to be used with any other media player.
+Currently we are developing this application and Lets see how far it will go.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Data communication over audio]]></title>
+    <link href="http://www.ideawide.com/data-communication-over-audio/"/>
+    <updated>2012-02-03T18:27:49+05:30</updated>
+    <id>http://www.ideawide.com/data-communication-over-audio</id>
+    <content type="html"><![CDATA[<h2>Background</h2>
 
-<p>This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.</p>
+<p>Few years back blue-tooth was introduced to as a near field communication medium. What if we can use the audio clips to do the same thing?Technically speaking it is just to encode the data stream to a carrier signal and you are done with the encoding part.  For the de-cording little bit of forward error correction might be needed as there can be data losses in the medium. But it is not technically impossible, I would say it is technically simple.</p>
 
-<div class="alert alert-error">
-Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
+<h2>Possible uses</h2>
+
+<p>If we can develop this as an mobile application most probably as android application there are plenty of uses with that app.</p>
+
+<ul>
+<li><p>Use as a near field communication medium (Like blue-tooth). Difference being instead of sending here the app will play a music. and the receiver will grab it and decode it.</p></li>
+<li><p>For rural communication. If a rural village is only covered by land lines a reporter there can send his digital media such as photos, video clips encoded on an audio stream and over the land line with out any complex equipments, and from the receiving end also without any complex expensive hardware user can get the media sent.</p></li>
+<li><p>All most all the phones can record audio messages. So users can take data as recorded audio clip, even the handset does not support encoding and decoding.</p></li>
+<li><p>Easily communicate over the mobile network. Does not need EDGE or HSDPA or 3G to communicate as well as hardware such as modems.</p></li>
+<li><p>Communicate in between a computer and a phone with out a data cable or a blue-tooth/infra-red connectivity.</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Video Grabber]]></title>
+    <link href="http://www.ideawide.com/video-grabber/"/>
+    <updated>2011-12-15T20:08:00+05:30</updated>
+    <id>http://www.ideawide.com/video-grabber</id>
+    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
+
+<!-- more -->
+
+
+<p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
+
+<div class="alert alert-info">
+More than 15000+ downloads already and 2000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/statistics/">Firefox Statistic Dashboard</a>
 </div>
 
 
+<h2>Why Video Sub Grabber?</h2>
+
+<p>People tends to download videos(specially Movies and TV series) just because they want to play them with subtitles. There are plenty of websites which allows users to play movies or TV series online but does not have subtitles. This is where Video Sub Player comes in to play. Video Sub Player will allow you to play those movies with subtitles.</p>
+
+<p>This is why you should choose Video Sub Player instead of any other web playe</p>
+
+<ul>
+<li>Free</li>
+<li>Any Video Streaming Site</li>
+<li>Can Download the video</li>
+<li>No Softwares (executable)</li>
+<li>Any subtitle language</li>
+<li>Convenient</li>
+</ul>
+
+
+<h2>How it works</h2>
+
+<p>When the addon is enabledYou can enable by clicking on its icon situated on the right bottom corner, it will look for videos on the pages you browse. If it found out any matching video on the page it will grab it and open from Video Sub Player. You can then specify the subtitles you want to play the video with. Currently you need to manually specify the subtitlesCheck Limitations section.</p>
+
+<p>Video Sub player is a player I developed and can be found at <a href="http://vsp.ideawide.com/">http://vsp.ideawide.com/</a></p>
+
+<h2>Limitations/Future updates</h2>
+
+<p>Current version is not capable of finding subtitles for a given video, but we are working on to provide that service as well. We  had some issues with some video providers due to cross domain policy and now it is completely solved(Add-on needs to be installed to play any videos due to cross domain policy restriction).</p>
+
+<p>Change log is found <a href="http://ideawide.com/video-sub-grabber-change-log/">here</a>.</p>
+
+<h2>Frequently Asked Questions</h2>
+
+<h4>What video streaming sites are compatible?</h4>
+
+<p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
+
+<h4>I am getting a cross domain error when player is loaded</h4>
+
+<p>Upgrade to the new version of the addon.</p>
+
+<h4>Is subtitles are automatically added?</h4>
+
+<p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
+
+<h4>Mega video links expire after 72 hours</h4>
+
+<p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
+
+<h4>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h4>
+
+<p>Only few of the providers allow that. We are working on that.</p>
+
+<h4>Can I download the movie after watching?</h4>
+
+<p>Yes you can download from the link below the video if you want.</p>
+
+<h4>Is add-on needed to play using the video sub player?</h4>
+
+<p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
+
+<h4>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h4>
+
+<p>No better use our addon. It will grab the video files for you.</p>
+
+<h4>Can I play local files on Video Sub Player?</h4>
+
+<p>Currently no but working on to add that feature.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[VideoSub Player]]></title>
+    <link href="http://www.ideawide.com/video-with-subtitles/"/>
+    <updated>2011-11-30T19:06:57+05:30</updated>
+    <id>http://www.ideawide.com/video-with-subtitles</id>
+    <content type="html"><![CDATA[<h2>Why Video Sub Player?</h2>
+
+<p>This is an online video player that can play any streaming link with added subtitles. No need to download the video just go to the site and play along with a subtitle you specify (or what we suggest).</p>
+
+<div class="alert alert-info">
+Have a Look at the <a href="http://vsp.ideawide.com/">VideoSubPlayer</a> before moving on
+</div>
+
+
+<p>Since some hosting providers have restricted their access to other servers and the file path to the streaming url is complex, I have developed an Firefox Addon that will do all the hard work for you. Basically when it is enabled it will grab videos on the sites you browse and take you to VideoSub Player. It will also bypass any security restriction opposed to stop cross domain streaming.</p>
+
+<p>For more information on Video Grabber can be found <a href="http://www.ideawide.com/video-sub-grabber/">here</a>.</p>
+
+<p>Video Grabber can be download from <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/">Firefox Repository</a></p>
+
+<h2>Introductory Video</h2>
+
+<iframe src="http://www.youtube.com/embed/5kt7mIsLFU4" frameborder="0" width="480" height="360"></iframe>
+
+
+<h2>Features</h2>
+
+<p>Here are some of the features of the VideoSub Player</p>
+
+<ul>
+<li>Free</li>
+<li>Any Video File</li>
+<li>Any Modern Browser (How ever the grabber is only for Firefox)</li>
+<li>Subtitle suggesting</li>
+<li>Other Streaming links (Experimental)</li>
+<li>Any Streaming Provider</li>
+<li>Pseudo streaming (if Server supports)</li>
+<li>Convenient</li>
+<li>Movie details via IMDB</li>
+<li>HTML5 or Flash</li>
+</ul>
+
+
+<div class="alert alert-warning">
+Currently the player is deployed for pre alpha and contains minor bugs if your found any bugs please post them on the <a href="https://ideawide.uservoice.com">support forum</a>.
+</div>
 
 ]]></content>
   </entry>
@@ -34,7 +185,7 @@ Due to migration of Facebook Developer API this application is not currently fun
   <entry>
     <title type="html"><![CDATA[Download Unlimited]]></title>
     <link href="http://www.ideawide.com/download-unlimited/"/>
-    <updated>2012-03-08T20:17:09+05:30</updated>
+    <updated>2011-11-10T20:17:09+05:30</updated>
     <id>http://www.ideawide.com/download-unlimited</id>
     <content type="html"><![CDATA[<h2>What is Download Unlimited?</h2>
 
@@ -97,9 +248,20 @@ More than 70000+ downloads and over 8000+ active daily users. Have a look at the
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Friend Utilities]]></title>
+    <link href="http://www.ideawide.com/friend-utilities/"/>
+    <updated>2011-10-08T18:29:32+05:30</updated>
+    <id>http://www.ideawide.com/friend-utilities</id>
+    <content type="html"><![CDATA[<p>This is an application that allows users to extend the functionality on Facebook. This basically and extended version of <a href="http://www.ideawide.com/appearing-offline/">Appearing Offline</a>. It has added support to add animated images to Facebook posts.</p>
+
+<p>This application has more than 1,000+ Facebook installs</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Similarities]]></title>
     <link href="http://www.ideawide.com/similarities/"/>
-    <updated>2012-03-08T20:14:34+05:30</updated>
+    <updated>2011-07-18T20:14:34+05:30</updated>
     <id>http://www.ideawide.com/similarities</id>
     <content type="html"><![CDATA[<p>Find similarities among your friends.</p>
 
@@ -118,94 +280,159 @@ Due to migration of Facebook Developer API this application is not currently fun
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Video Grabber]]></title>
-    <link href="http://www.ideawide.com/video-grabber/"/>
-    <updated>2012-03-08T20:08:00+05:30</updated>
-    <id>http://www.ideawide.com/video-grabber</id>
-    <content type="html"><![CDATA[<p>Grab online vidoes to watch them with subtitles.</p>
+    <title type="html"><![CDATA[Tag Friends]]></title>
+    <link href="http://www.ideawide.com/tag-friends/"/>
+    <updated>2011-06-24T18:23:52+05:30</updated>
+    <id>http://www.ideawide.com/tag-friends</id>
+    <content type="html"><![CDATA[<p>Tag their friends with different animation characters or movie heroes.</p>
 
 <!-- more -->
 
 
-<p>This is an application which allows you to play online videos with subtitles. When you browse any video streaming site(such as Youtube, Metacafe, Megamovies, Novamove …. ), this will allow you to play the same video with subtitles. Watch movies, TV series available on other sites with your own specified subtitles.</p>
 
-<div class="alert alert-info">
-More than 15000+ downloads already and 2000+ active daily users. Have a look at the download statistics available on <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/statistics/">Firefox Statistic Dashboard</a>
+
+<div class="alert alert-error">
+Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
 </div>
 
 
-<h2>Why Video Sub Grabber?</h2>
 
-<p>People tends to download videos(specially Movies and TV series) just because they want to play them with subtitles. There are plenty of websites which allows users to play movies or TV series online but does not have subtitles. This is where Video Sub Player comes in to play. Video Sub Player will allow you to play those movies with subtitles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Make Possible]]></title>
+    <link href="http://www.ideawide.com/make-possible/"/>
+    <updated>2010-05-28T17:26:42+05:30</updated>
+    <id>http://www.ideawide.com/make-possible</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
 
-<p>This is why you should choose Video Sub Player instead of any other web playe</p>
+<p>All over the world there are an enormous number of poor people who are in need. There are also potential donors  who  are  looking  to  help  such  individuals  and  groups.  This  project  proposes  an  IT  based  reliable solution to connect donors with such people and to make the donation process more effective.</p>
 
-<ul>
-<li>Free</li>
-<li>Any Video Streaming Site</li>
-<li>Can Download the video</li>
-<li>No Softwares (executable)</li>
-<li>Any subtitle language</li>
-<li>Convenient</li>
+<div class="alert alert-info"> This is the project we present for Imagine Cup 2011 under the Software Design Category. We were among the 6 <a href="http://dotnetforum.lk/blogs/wela/archive/2011/04/08/imagine-cup-2011-sri-lanka-6-finalist-teams.aspx">Sri Lankan finalist</a> in year 2011.
+</div>
+
+
+<p><button type="button" class="btn btn-inverse" data-toggle="collapse" data-target="#demo">
+  Read more
+</button></p>
+
+<div id="demo" class="collapse" style="height: 0px;">
+<p>To comply with the millennium goal of reducing worldwide poverty, we believe the inequality of wealth distribution should be mitigated because most global problems are due to this inequality. A system which facilitates equal wealth distribution through regulated donation is an ideal solution to many major problems.</p>
+
+<p>Our mission is to facilitate, through e-donation, donors to donate whatever they wish, to people in need, regardless of the mode of donation and the physical distance between them. The objective of this proposal is to make the remote donating process technologically feasible, transparent, and secure, by ensuring personal contact between donor and recipient including the way the donation is being disbursed.</p>
+
+<p>Our solution will be the creation of a website which will enable the donors to get to know potential recipients closely, and to make donations to people who really need them. While omitting drawbacks in similar systems such as being limited to a nation or an organization, our system facilities any donor to donate to any person in need, irrespective of any limitations. More importantly this system complies with latest social technological trends such as community websites but in a transparent and regulated manner.</p>
+
+<p>Anyone who really needs help to fulfill basic requirements such as medicine and education can register on our website, through a sub controller. A controlling body, complying with government regulations, will be appointed for each country which has the authority to appoint sub controllers. Schools and hospitals are some entities which would be appropriate as sub controllers. They are required to give approval only to people with real need. Multiple provisions will be taken to avoid misuse of donations.</p>
+
+<p>The donor can connect to our web site by registering directly, or through a community web site, which has become the second most powerful technology in the decade according to the IEEE [1] and which we believe is the ideal technology for achieving our objective.</p>
+
+<p>Once a donor registers, he has the opportunity to search the database of people in need. Instead of merely donating to an organization, the donor may select the receiver based on the donor’s interest, which may, for example, depend on the receiver’s country, age, or gender. For example, a doctor may prefer to donate medicine to a patient suffering from widespread disease, whilst a teacher may prefer donating books to a primary student. The psychological satisfaction of the donor will thus be enhanced by making a donation to a person of his preference.</p>
+
+<p>If the donation is in the form of money, it will be remitted to the receiver’s bank account. If the donation is in the form of goods the donor may purchase them online from suppliers (on our website or other), who will send the purchased goods to the recipient.  On the other hand, if both the donor and recipient wish to, they may exchange contact details and proceed separately. The recipient has the benefit of receiving what he really needs, which minimizes wastage and improves the effectiveness of the donations.</p>
+
+<p>The promoting mechanism of our website will be community website oriented. Awards will be given to encourage donations. For example, the donations an individual makes will appear on his or her profile on community websites. Further, names of top donors will be highlighted on our website and mentioned in our newsletters. Psychological motivational methods such as sending notifications on a registered donor’s birthday, about a person, born on same day, who is in need, will be used to promote donations. Finally, the recipient will be asked to give feedback on how the donation was utilized, which will further encourage the donor.</p>
+
+<p>Services such as education and health will be enhanced in the countries of the recipients due to necessary resources such as medicine and books being supplied. By encouraging donors to purchase goods from local suppliers, the local economy will be enhanced.</p>
+
+<p>The total implementation process is a massive procedure, which is split into steps for convenience. The first step is to form our website, where the recipients and donors can register.</p>
+
+<p>The ultimate goal of our project is to create an ideal opportunity to help each other and to improve living standards all over the world</p>
+</div>
+
+
+
+
+<div class="alert alert-success">Full Proposal can be downloaded from [here](http://localhost/Ideawide/Website/wp-content/uploads/2012/03/Vishwa_makePossible_ic2011.pdf)</div>
+
+
+<h2>Why makePossible?</h2>
+
+<h4>Wide audience</h4>
+
+<p>Since we use a website to address this issue, we can easily widespread our idea through the world in a short period of time via social networks. Since we target people who are having a potential of donating, World Wide Web will be an ideal platform to find and communicate with them.</p>
+
+<h4>Social integration</h4>
+
+<p>Apps and mash-ups will be built on available social networks to connect our site conveniently (registration process). The donors can share status of their donations on social networks which would gain reputation and self-satisfaction. This method will also act as a form of advertising our service. A leather board will be maintained to showcase the top donors.</p>
+
+<h4>Psychological impact</h4>
+
+<p>We will focus on sending newsletters and notification via social media or email to donors on their special and important days such as birthday, anniversaries where they can choose a recipient with similar characteristics (A donor can help an individual who was born on same day)</p>
+
+<h4>Customized and focused donations</h4>
+
+<p>Donors will be able to donate according to their preference. A recipient can be selected from any country, region, gender, category, age etc. For example, the donor may donate to an orphan child on a day which he commemorates his parents.</p>
+
+<h4>Feedback on the donations</h4>
+
+<p>When the recipient received the donations, he can (not necessary) share the method of donations via pictures or videos, through the system. While satisfying the donor this will motivate him to make more donations in the future.</p>
+
+<h4>Privacy</h4>
+
+<p>Receivers will be able to disclose any information they think that donors might be aware of. Both recipient and donor may disclose their identity depending on their wish. More information on recipient will make him more comprehensive to the donor. If both parties agree they may proceed with the donation process on their own.</p>
+
+<h4>Transparency</h4>
+
+<p>This project is based on charity and no motivation of revenue generation. System will disclose information on receivers as much as available, facilitating the users to continue with the donation process even without the system.</p>
+
+<h4>Extendibility</h4>
+
+<p>As a step forward we can allow community projects to register in to the system where the public can donate for the community project as well. Each project will be assigned a page which can be used in their advertising campaigns for further details (Like a profile on a social network). The donors will have a common place to find potential projects in our site.Furthermore this can extended as a showcase of talents and support to improve them.</p>
+
+<h4>Regulated</h4>
+
+<p>Content goes hereThe system in each country will be regulated by a well known recognized body. This will help the potential donors to have clear idea of system. They are responsible for the gaminess of the recipient.</p>
+
+<h4>Modes of donations</h4>
+
+<p>Depending on the needs of the recipient, donor may select making the donation either in form of money or in form of goods.[/tab] [/tabcontent] [/tabs]</p>
+
+<h2>Product Demo</h2>
+
+<p>This is a video demonstration of the makePossible and its’ functionalities.</p>
+
+<object width="550" height="310" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="550" height="310" type="application/x-shockwave-flash" src="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+
+
+<h2>Product Presentation</h2>
+
+<p>Here are the presentation we made during the competition</p>
+
+<ul class="nav nav-tabs" id="myTab">
+  <li class="active"><a data-toggle="tab" href="#UniversityLevel">University Level</a></li>
+  <li><a data-toggle="tab" href="#SemiFinal">Semi Final</a></li>
+  <li><a data-toggle="tab" href="#FinalPre">Final Pre</a></li>
+  <li><a data-toggle="tab" href="#Final">Final</a></li>
 </ul>
 
 
-<h2>How it works</h2>
 
-<p>When the addon is enabledYou can enable by clicking on its icon situated on the right bottom corner, it will look for videos on the pages you browse. If it found out any matching video on the page it will grab it and open from Video Sub Player. You can then specify the subtitles you want to play the video with. Currently you need to manually specify the subtitlesCheck Limitations section.</p>
 
-<p>Video Sub player is a player I developed and can be found at <a href="http://vsp.ideawide.com/">http://vsp.ideawide.com/</a></p>
+<div class="tab-content">
+  <div class="tab-pane active" id="UniversityLevel">
+<iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21736&amp;p4=&amp;ak=%21AIKwjxUTldRy-TY&amp;kip=1&amp;authkey=%21AIKwjxUTldRy-TY" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
+  </div>
+  <div class="tab-pane" id="SemiFinal">
+<object id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
+  </div>
+  <div class="tab-pane" id="FinalPre">
+<object id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
+  </div>
+  <div class="tab-pane" id="Final"><iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21762&amp;p4=&amp;ak=%21AHhX5FaIAHDVnRQ&amp;kip=1&amp;authkey=%21AHhX5FaIAHDVnRQ" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
+  </div>
+</div>
 
-<h2>Limitations/Future updates</h2>
 
-<p>Current version is not capable of finding subtitles for a given video, but we are working on to provide that service as well. We  had some issues with some video providers due to cross domain policy and now it is completely solved(Add-on needs to be installed to play any videos due to cross domain policy restriction).</p>
 
-<p>Change log is found <a href="http://ideawide.com/video-sub-grabber-change-log/">here</a>.</p>
-
-<h2>Frequently Asked Questions</h2>
-
-<h3>What video streaming sites are compatible?</h3>
-
-<p>I do not know what people read. Yes with the new version all the streaming providers are supported</p>
-
-<h3>I am getting a cross domain error when player is loaded</h3>
-
-<p>Upgrade to the new version of the addon.</p>
-
-<h3>Is subtitles are automatically added?</h3>
-
-<p>Current version required users to add subtitles manually. Next version will automatically add subtitles</p>
-
-<h3>Mega video links expire after 72 hours</h3>
-
-<p>This is not our restriction. Mega video hosts assigned this restriction. But you can simply change the IP address(unplug the router and plug again)</p>
-
-<h3>Can I watch any place on the video/Can I jump into the middle of the movie before loading?</h3>
-
-<p>Only few of the providers allow that. We are working on that.</p>
-
-<h3>Can I download the movie after watching?</h3>
-
-<p>Yes you can download from the link below the video if you want.</p>
-
-<h3>Is add-on needed to play using the video sub player?</h3>
-
-<p>Not necessary. But it will help you big time. For the providers who have cross domain restrictions(Megamovies,Movshare), you must use our addon</p>
-
-<h3>Can the URL of the movie is showing on the providers website be used to play on Video Sub Player?</h3>
-
-<p>No better use our addon. It will grab the video files for you.</p>
-
-<h3>Can I play local files on Video Sub Player?</h3>
-
-<p>Currently no but working on to add that feature.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[eWalker]]></title>
     <link href="http://www.ideawide.com/ewalker/"/>
-    <updated>2012-03-08T20:03:29+05:30</updated>
+    <updated>2009-02-18T20:03:29+05:30</updated>
     <id>http://www.ideawide.com/ewalker</id>
     <content type="html"><![CDATA[<h2>What is eWalker?</h2>
 
@@ -361,260 +588,19 @@ User manual can be download from <a href="http://ideawide.com/wp-content/uploads
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Friend Utilities]]></title>
-    <link href="http://www.ideawide.com/friend-utilities/"/>
-    <updated>2012-03-08T18:29:32+05:30</updated>
-    <id>http://www.ideawide.com/friend-utilities</id>
-    <content type="html"><![CDATA[<p>This is an application that allows users to extend the functionality on Facebook. This basically and extended version of <a href="http://www.ideawide.com/appearing-offline/">Appearing Offline</a>. It has added support to add animated images to Facebook posts.</p>
+    <title type="html"><![CDATA[Appear Offline]]></title>
+    <link href="http://www.ideawide.com/appear-offline/"/>
+    <updated>2008-01-20T20:24:52+05:30</updated>
+    <id>http://www.ideawide.com/appear-offline</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
 
-<p>This application has more than 1,000+ Facebook installs</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Data communication over audio]]></title>
-    <link href="http://www.ideawide.com/data-communication-over-audio/"/>
-    <updated>2012-03-08T18:27:49+05:30</updated>
-    <id>http://www.ideawide.com/data-communication-over-audio</id>
-    <content type="html"><![CDATA[<h2>Background</h2>
-
-<p>Few years back blue-tooth was introduced to as a near field communication medium. What if we can use the audio clips to do the same thing?Technically speaking it is just to encode the data stream to a carrier signal and you are done with the encoding part.  For the de-cording little bit of forward error correction might be needed as there can be data losses in the medium. But it is not technically impossible, I would say it is technically simple.</p>
-
-<h2>Possible uses</h2>
-
-<p>If we can develop this as an mobile application most probably as android application there are plenty of uses with that app.</p>
-
-<ul>
-<li><p>Use as a near field communication medium (Like blue-tooth). Difference being instead of sending here the app will play a music. and the receiver will grab it and decode it.</p></li>
-<li><p>For rural communication. If a rural village is only covered by land lines a reporter there can send his digital media such as photos, video clips encoded on an audio stream and over the land line with out any complex equipments, and from the receiving end also without any complex expensive hardware user can get the media sent.</p></li>
-<li><p>All most all the phones can record audio messages. So users can take data as recorded audio clip, even the handset does not support encoding and decoding.</p></li>
-<li><p>Easily communicate over the mobile network. Does not need EDGE or HSDPA or 3G to communicate as well as hardware such as modems.</p></li>
-<li><p>Communicate in between a computer and a phone with out a data cable or a blue-tooth/infra-red connectivity.</p></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tag Friends]]></title>
-    <link href="http://www.ideawide.com/tag-friends/"/>
-    <updated>2012-03-08T18:23:52+05:30</updated>
-    <id>http://www.ideawide.com/tag-friends</id>
-    <content type="html"><![CDATA[<p>Tag their friends with different animation characters or movie heroes.</p>
-
-<!-- more -->
-
-
-
+<p>This is an application that allows users to track their friends who are in limited online mode. It will show people who are online and the people who are in limited online along with the people who are offline.</p>
 
 <div class="alert alert-error">
 Due to migration of Facebook Developer API this application is not currently functioning. It will be migrated very soon.
 </div>
 
 
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Surround sounds via ear phones]]></title>
-    <link href="http://www.ideawide.com/surround-sounds-via-ear-phones/"/>
-    <updated>2012-03-08T18:20:53+05:30</updated>
-    <id>http://www.ideawide.com/surround-sounds-via-ear-phones</id>
-    <content type="html"><![CDATA[<p>I  recently saw that on a Samsung Galaxy Y, that users have an option to switch between normal speakers mode or to 5.1 speakers. This is possible as even there are 10 different speakers, everything is heard from our two ears. So if we can simulate the sound effect generated from those speakers, we can add as many as speakers and the head phones will simulate it. No need to get the physical speakers, all you need is the simulation. My idea is to develop an application (as a start an android) that enable user to configure the speaker position and the volume. Our software will simulate the effect through the ear phone. Simple and yet interactive application. We are working on to make it compatible with the standard media player or to be used with any other media player.
-Currently we are developing this application and Lets see how far it will go.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Anti noise generator for laptops]]></title>
-    <link href="http://www.ideawide.com/anti-noise-generator-for-laptops/"/>
-    <updated>2012-03-08T18:10:01+05:30</updated>
-    <id>http://www.ideawide.com/anti-noise-generator-for-laptops</id>
-    <content type="html"><![CDATA[<h2>Background</h2>
-
-<p>I was wondering whether I can create a software to reduce sounds in the environment. Ideally when I run the application it should remove the noise in the environment. Simply cancel of the noise or sounds in the environment. I was thinking of the same technology as the noise cancelling head phones. As I know what they do in simple terms is they get the noise in the environment and subtract it from the music we are listening to. So when we hear the music with the noise, the subtracted part is added and we only hear the music.
-Well I was thinking of doing it on the machine. Instead of subtracting it from a music if we can simply generate a inverse noise signal to the original noise they would cancel out and we will be having a calm environment.Since most laptops have microphones inbuilt we can get the surrounding noise from that. What we need is to then invert it and output it from the speaker. If we are playing a music we could subtract the noise from the music and play it on the speaker so as I mentioned when we listen we will hear only the music we played.</p>
-
-<p>We could also write a driver which is just a wrapper to the original audio hardware to implement this functionality and the user can select the driver when they want. I searched on the internet but could not find a similar software for a machine or a mobile phone. I was wondering what is the technological barrier in-between. Can we create negative amplitude waves from speakers or from any other devices?  I&#8217;m pretty sure this might be a barrier when implementing. If this is not possible we can not cancel out the noise. But we can change the unpleasant noise to some tone we like. This can be done by adding some other wave form to the noise. In any case we can create that noise cancellation when we are playing a music or a song on laptop as we have a final wave and what we need is to subtract the noise from the music we are playing</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Make Possible]]></title>
-    <link href="http://www.ideawide.com/make-possible/"/>
-    <updated>2012-03-08T17:26:42+05:30</updated>
-    <id>http://www.ideawide.com/make-possible</id>
-    <content type="html"><![CDATA[<h2>Introduction</h2>
-
-<p>All over the world there are an enormous number of poor people who are in need. There are also potential donors  who  are  looking  to  help  such  individuals  and  groups.  This  project  proposes  an  IT  based  reliable solution to connect donors with such people and to make the donation process more effective.</p>
-
-<div class="alert alert-info"> This is the project we present for Imagine Cup 2011 under the Software Design Category. We were among the 6 <a href="http://dotnetforum.lk/blogs/wela/archive/2011/04/08/imagine-cup-2011-sri-lanka-6-finalist-teams.aspx">Sri Lankan finalist</a> in year 2011.
-</div>
-
-
-<p><button type="button" class="btn btn-inverse" data-toggle="collapse" data-target="#demo">
-  Read more
-</button></p>
-
-<div id="demo" class="collapse" style="height: 0px;">
-<p>To comply with the millennium goal of reducing worldwide poverty, we believe the inequality of wealth distribution should be mitigated because most global problems are due to this inequality. A system which facilitates equal wealth distribution through regulated donation is an ideal solution to many major problems.</p>
-
-<p>Our mission is to facilitate, through e-donation, donors to donate whatever they wish, to people in need, regardless of the mode of donation and the physical distance between them. The objective of this proposal is to make the remote donating process technologically feasible, transparent, and secure, by ensuring personal contact between donor and recipient including the way the donation is being disbursed.</p>
-
-<p>Our solution will be the creation of a website which will enable the donors to get to know potential recipients closely, and to make donations to people who really need them. While omitting drawbacks in similar systems such as being limited to a nation or an organization, our system facilities any donor to donate to any person in need, irrespective of any limitations. More importantly this system complies with latest social technological trends such as community websites but in a transparent and regulated manner.</p>
-
-<p>Anyone who really needs help to fulfill basic requirements such as medicine and education can register on our website, through a sub controller. A controlling body, complying with government regulations, will be appointed for each country which has the authority to appoint sub controllers. Schools and hospitals are some entities which would be appropriate as sub controllers. They are required to give approval only to people with real need. Multiple provisions will be taken to avoid misuse of donations.</p>
-
-<p>The donor can connect to our web site by registering directly, or through a community web site, which has become the second most powerful technology in the decade according to the IEEE [1] and which we believe is the ideal technology for achieving our objective.</p>
-
-<p>Once a donor registers, he has the opportunity to search the database of people in need. Instead of merely donating to an organization, the donor may select the receiver based on the donor’s interest, which may, for example, depend on the receiver’s country, age, or gender. For example, a doctor may prefer to donate medicine to a patient suffering from widespread disease, whilst a teacher may prefer donating books to a primary student. The psychological satisfaction of the donor will thus be enhanced by making a donation to a person of his preference.</p>
-
-<p>If the donation is in the form of money, it will be remitted to the receiver’s bank account. If the donation is in the form of goods the donor may purchase them online from suppliers (on our website or other), who will send the purchased goods to the recipient.  On the other hand, if both the donor and recipient wish to, they may exchange contact details and proceed separately. The recipient has the benefit of receiving what he really needs, which minimizes wastage and improves the effectiveness of the donations.</p>
-
-<p>The promoting mechanism of our website will be community website oriented. Awards will be given to encourage donations. For example, the donations an individual makes will appear on his or her profile on community websites. Further, names of top donors will be highlighted on our website and mentioned in our newsletters. Psychological motivational methods such as sending notifications on a registered donor’s birthday, about a person, born on same day, who is in need, will be used to promote donations. Finally, the recipient will be asked to give feedback on how the donation was utilized, which will further encourage the donor.</p>
-
-<p>Services such as education and health will be enhanced in the countries of the recipients due to necessary resources such as medicine and books being supplied. By encouraging donors to purchase goods from local suppliers, the local economy will be enhanced.</p>
-
-<p>The total implementation process is a massive procedure, which is split into steps for convenience. The first step is to form our website, where the recipients and donors can register.</p>
-
-<p>The ultimate goal of our project is to create an ideal opportunity to help each other and to improve living standards all over the world</p>
-</div>
-
-
-
-
-<div class="alert alert-success">Full Proposal can be downloaded from [here](http://localhost/Ideawide/Website/wp-content/uploads/2012/03/Vishwa_makePossible_ic2011.pdf)</div>
-
-
-<h2>Why makePossible?</h2>
-
-<h4>Wide audience</h4>
-
-<p>Since we use a website to address this issue, we can easily widespread our idea through the world in a short period of time via social networks. Since we target people who are having a potential of donating, World Wide Web will be an ideal platform to find and communicate with them.</p>
-
-<h4>Social integration</h4>
-
-<p>Apps and mash-ups will be built on available social networks to connect our site conveniently (registration process). The donors can share status of their donations on social networks which would gain reputation and self-satisfaction. This method will also act as a form of advertising our service. A leather board will be maintained to showcase the top donors.</p>
-
-<h4>Psychological impact</h4>
-
-<p>We will focus on sending newsletters and notification via social media or email to donors on their special and important days such as birthday, anniversaries where they can choose a recipient with similar characteristics (A donor can help an individual who was born on same day)</p>
-
-<h4>Customized and focused donations</h4>
-
-<p>Donors will be able to donate according to their preference. A recipient can be selected from any country, region, gender, category, age etc. For example, the donor may donate to an orphan child on a day which he commemorates his parents.</p>
-
-<h4>Feedback on the donations</h4>
-
-<p>When the recipient received the donations, he can (not necessary) share the method of donations via pictures or videos, through the system. While satisfying the donor this will motivate him to make more donations in the future.</p>
-
-<h4>Privacy</h4>
-
-<p>Receivers will be able to disclose any information they think that donors might be aware of. Both recipient and donor may disclose their identity depending on their wish. More information on recipient will make him more comprehensive to the donor. If both parties agree they may proceed with the donation process on their own.</p>
-
-<h4>Transparency</h4>
-
-<p>This project is based on charity and no motivation of revenue generation. System will disclose information on receivers as much as available, facilitating the users to continue with the donation process even without the system.</p>
-
-<h4>Extendibility</h4>
-
-<p>As a step forward we can allow community projects to register in to the system where the public can donate for the community project as well. Each project will be assigned a page which can be used in their advertising campaigns for further details (Like a profile on a social network). The donors will have a common place to find potential projects in our site.Furthermore this can extended as a showcase of talents and support to improve them.</p>
-
-<h4>Regulated</h4>
-
-<p>Content goes hereThe system in each country will be regulated by a well known recognized body. This will help the potential donors to have clear idea of system. They are responsible for the gaminess of the recipient.</p>
-
-<h4>Modes of donations</h4>
-
-<p>Depending on the needs of the recipient, donor may select making the donation either in form of money or in form of goods.[/tab] [/tabcontent] [/tabs]</p>
-
-<h2>Product Demo</h2>
-
-<p>This is a video demonstration of the makePossible and its’ functionalities.</p>
-
-<object width="550" height="310" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" /><param name="allowfullscreen" value="true" /><embed width="550" height="310" type="application/x-shockwave-flash" src="http://www.youtube.com/v/omm69m5ZsNs?version=3&amp;hl=en_GB&amp;rel=0" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
-
-
-<h2>Product Presentation</h2>
-
-<p>Here are the presentation we made during the competition</p>
-
-<ul class="nav nav-tabs" id="myTab">
-  <li class="active"><a data-toggle="tab" href="#UniversityLevel">University Level</a></li>
-  <li><a data-toggle="tab" href="#SemiFinal">Semi Final</a></li>
-  <li><a data-toggle="tab" href="#FinalPre">Final Pre</a></li>
-  <li><a data-toggle="tab" href="#Final">Final</a></li>
-</ul>
-
-
-
-
-<div class="tab-content">
-  <div class="tab-pane active" id="UniversityLevel">
-<iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21736&amp;p4=&amp;ak=%21AIKwjxUTldRy-TY&amp;kip=1&amp;authkey=%21AIKwjxUTldRy-TY" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
-  </div>
-  <div class="tab-pane" id="SemiFinal">
-<object id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_c6ad906b81185496ad17777bdf844637d56db0e0" width="400" height="321" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=c6ad906b81185496ad17777bdf844637d56db0e0&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
-  </div>
-  <div class="tab-pane" id="FinalPre">
-<object id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_9d5c693f8b335be0de04810f9159d829bb23e9ec" width="400" height="320" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=9d5c693f8b335be0de04810f9159d829bb23e9ec&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object>
-  </div>
-  <div class="tab-pane" id="Final"><iframe style="padding: 0pt; background-color: #fcfcfc;" title="Preview" src="https://r.office.microsoft.com/r/rlidPowerPointEmbed?p1=1&amp;p2=1&amp;p3=SDB2AA807A46056D35%21762&amp;p4=&amp;ak=%21AHhX5FaIAHDVnRQ&amp;kip=1&amp;authkey=%21AHhX5FaIAHDVnRQ" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="402px" height="327px"></iframe>
-  </div>
-</div>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[VideoSub Player]]></title>
-    <link href="http://www.ideawide.com/video-with-subtitles/"/>
-    <updated>2011-03-08T19:06:57+05:30</updated>
-    <id>http://www.ideawide.com/video-with-subtitles</id>
-    <content type="html"><![CDATA[<h2>Why Video Sub Player?</h2>
-
-<p>This is an online video player that can play any streaming link with added subtitles. No need to download the video just go to the site and play along with a subtitle you specify (or what we suggest).</p>
-
-<div class="alert alert-info">
-Have a Look at the <a href="http://vsp.ideawide.com/">VideoSubPlayer</a> before moving on
-</div>
-
-
-<p>Since some hosting providers have restricted their access to other servers and the file path to the streaming url is complex, I have developed an Firefox Addon that will do all the hard work for you. Basically when it is enabled it will grab videos on the sites you browse and take you to VideoSub Player. It will also bypass any security restriction opposed to stop cross domain streaming.</p>
-
-<p>For more information on Video Grabber can be found <a href="http://www.ideawide.com/video-sub-grabber/">here</a>.</p>
-
-<p>Video Grabber can be download from <a href="https://addons.mozilla.org/en-US/firefox/addon/video-grabber/">Firefox Repository</a></p>
-
-<h2>Introductory Video</h2>
-
-<iframe src="http://www.youtube.com/embed/5kt7mIsLFU4" frameborder="0" width="480" height="360"></iframe>
-
-
-<h2>Features</h2>
-
-<p>Here are some of the features of the VideoSub Player</p>
-
-<ul>
-<li>Free</li>
-<li>Any Video File</li>
-<li>Any Modern Browser (How ever the grabber is only for Firefox)</li>
-<li>Subtitle suggesting</li>
-<li>Other Streaming links (Experimental)</li>
-<li>Any Streaming Provider</li>
-<li>Pseudo streaming (if Server supports)</li>
-<li>Convenient</li>
-<li>Movie details via IMDB</li>
-<li>HTML5 or Flash</li>
-</ul>
-
-
-<div class="alert alert-warning">
-Currently the player is deployed for pre alpha and contains minor bugs if your found any bugs please post them on the <a href="https://ideawide.uservoice.com">support forum</a>.
-</div>
 
 ]]></content>
   </entry>
