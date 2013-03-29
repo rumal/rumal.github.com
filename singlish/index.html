@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta charset="utf-8">
-            <title>Gsheet2json - Ideawide</title>
+            <title>singlish - Ideawide</title>
             <meta name="author" content="Pasindu Perera"/>
 
             
-            <meta name="description" content="<!-- Gallery Items ================================================== --> Gsheet2json JS object to easily read from publicly hosted Google &hellip;"/>
+            <meta name="description" content="<!-- Gallery Items ================================================== --> singlish Singlish Translator for chrome Date: Feb 10th, 2013 Technologies &hellip;"/>
             
 
             <!-- http://t.co/dKP3o1e -->
@@ -16,7 +16,7 @@
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
             
-            <link rel="canonical" href="http://www.ideawide.com/gsheet2json"/>
+            <link rel="canonical" href="http://www.ideawide.com/singlish"/>
 
             <!-- Favicons
                   ================================================== -->
@@ -155,12 +155,12 @@
 
             <div class="row">
                 <div class="span6">
-                    <img src="/img/apps/gsheet2json.png" class="thumbnail span5" alt="Gsheet2json">
+                    <img src="/img/apps/singlish.jpg" class="thumbnail span5" alt="singlish">
                 </div>
                 <div class="span6">
-                    <h2>Gsheet2json</h2>
+                    <h2>singlish</h2>
 		    
-                    <p class="lead">JS object to easily read from publicly hosted Google spreadsheets.</p>
+                    <p class="lead">Singlish Translator for chrome</p>
 
 		        <ul class="project-info">
         <li><h6>Date:</h6> 
@@ -175,14 +175,14 @@
   
 
 
-<time datetime="2013-02-20T10:36:00+05:30" pubdate data-updated="true">Feb 20<span>th</span>, 2013</time></li>
-	<li><h6>Technologies used:</h6> html-js and google-docs</li>
+<time datetime="2013-02-10T10:24:00+05:30" pubdate data-updated="true">Feb 10<span>th</span>, 2013</time></li>
+	<li><h6>Technologies used:</h6> html-js and xul</li>
 
 	<li><h6>Resides in:</h6> 
 
 <span class="categories">
   
-    <a class='category' href='/categories/developed/'>Developed</a>, <a class='category' href='/categories/my-ideas/'>My Ideas</a>, <a class='category' href='/categories/open-source/'>Open Source</a>, <a class='category' href='/categories/web-application/'>Web Application</a>
+    <a class='category' href='/categories/chrome/'>Chrome</a>, <a class='category' href='/categories/developed/'>Developed</a>, <a class='category' href='/categories/my-ideas/'>My Ideas</a>, <a class='category' href='/categories/open-source/'>Open Source</a>
   
 </span>
 
@@ -192,17 +192,17 @@
 
 
         
-        <li class="alert alert-warning"><h6>Source on Github:</h6> <a href="https://github.com/rumal/Gsheet2json">https://github.com/rumal/Gsheet2json</a></li>
+        <li class="alert alert-warning"><h6>Source on Github:</h6> <a href="https://github.com/rumal/singlish">https://github.com/rumal/singlish</a></li>
 	
         
 	
 
 	
-        <li class="alert alert-success"><h6>Application on Web:</h6> <a href="http://rumal.github.com/Gsheet2json/">http://rumal.github.com/Gsheet2json/</a></li>
-	
 
 	
 
+	
+        <li class="alert alert-success"><h6>Addon on Chrome:</h6> <a href="https://chrome.google.com/webstore/detail/singlish-translator/ajmaflbgbmjfamijaoaplckhdjdmmomd">https://chrome.google.com/webstore/detail/singlish-translator/ajmaflbgbmjfamijaoaplckhdjdmmomd</a></li>
 	
 
 	
@@ -220,7 +220,7 @@
 <div class="row">
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.ideawide.com/gsheet2json/" data-via="rumalp" data-counturl="http://www.ideawide.com/gsheet2json/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.ideawide.com/singlish/" data-via="rumalp" data-counturl="http://www.ideawide.com/singlish/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -235,71 +235,18 @@
 <div class="row">
 <p class="meta">
       
-        <a class="basic-alignment left label label-inverse" href="/singlish/" title="Previous App: singlish">&laquo; singlish</a>
+        <a class="basic-alignment left label label-inverse" href="/surround-sounds-via-ear-phones/" title="Previous App: Surround sounds via ear phones">&laquo; Surround sounds via ear phones</a>
       
       
-        <a class="basic-alignment right label label-inverse" href="/lights-off/" title="Next App: lights-off">lights-off &raquo;</a>
+        <a class="basic-alignment right label label-inverse" href="/gsheet2json/" title="Next App: Gsheet2json">Gsheet2json &raquo;</a>
       
     </p>
 </div>
 <hr/>
 <div class="row">
-  <h1>Gsheet2json</h1>
+  <h2>Introduction</h2>
 
-<p>A Java script object to easily read from publicly hosted Google spreadsheets. You can use it as a database for your web application</p>
-
-<h3>Quick Start</h3>
-
-<ul>
-<li>Download and include <a href="https://raw.github.com/rumal/Gsheet2json/master/js/gsheet2json.js">gsheet2json.js</a> to your project.</li>
-<li></li>
-</ul>
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>var sheet = new spreadSheet(
-</span><span class='line'>              {url to the publicly hosted spreadsheet},
-</span><span class='line'>              {fieldlist as an array},
-</span><span class='line'>              {success function}
-</span><span class='line'>    );</span></code></pre></td></tr></table></div></figure>
-
-
-<ul>
-<li>Use <code>sheet.getAsArray()</code> or <code>sheet.getAsObjects()</code></li>
-</ul>
-
-
-<h3>Example</h3>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;script type="text/javascript" src="js/gsheet2json.js"&gt;&lt;/script&gt;
-</span><span class='line'>&lt;script&gt;
-</span><span class='line'>  var fields = ["URL", "Speaker", "Name", "Short Summary", "Event","Duration", "Publish date"];
-</span><span class='line'>  var sheet = new spreadSheet(
-</span><span class='line'>      "https://docs.google.com/spreadsheet/ccc?key=0AsKzpC8gYBmTcGpHbFlILThBSzhmZkRhNm8yYllsWGc&gid=0",
-</span><span class='line'>      fields,
-</span><span class='line'>      function(data) {
-</span><span class='line'>         console.log(data.getAsObjects());
-</span><span class='line'>         console.log(data.getAsArray());
-</span><span class='line'>      });
-</span><span class='line'>&lt;/script&gt;</span></code></pre></td></tr></table></div></figure>
-
-
-<p><a href="http://jsfiddle.net/pasindur/EsGmX/">http://jsfiddle.net/pasindur/EsGmX/</a></p>
+<p>Singlish Translator</p>
 
 </div>
 <div class="row">
@@ -348,8 +295,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://www.ideawide.com/gsheet2json/';
-        var disqus_url = 'http://www.ideawide.com/gsheet2json/';
+        var disqus_identifier = 'http://www.ideawide.com/singlish/';
+        var disqus_url = 'http://www.ideawide.com/singlish/';
         var disqus_script = 'embed.js';
       
     (function () {

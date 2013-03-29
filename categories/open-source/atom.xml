@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Open Source | Ideawide]]></title>
   <link href="http://www.ideawide.com/categories/open-source/atom.xml" rel="self"/>
   <link href="http://www.ideawide.com/"/>
-  <updated>2013-03-29T10:54:33+05:30</updated>
+  <updated>2013-03-29T11:04:11+05:30</updated>
   <id>http://www.ideawide.com/</id>
   <author>
     <name><![CDATA[Pasindu Perera]]></name>
@@ -74,6 +74,17 @@ var sheet = new spreadSheet(</p>
 <p>```</p>
 
 <p><a href="http://jsfiddle.net/pasindur/EsGmX/">http://jsfiddle.net/pasindur/EsGmX/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[singlish]]></title>
+    <link href="http://www.ideawide.com/singlish/"/>
+    <updated>2013-02-10T10:24:00+05:30</updated>
+    <id>http://www.ideawide.com/singlish</id>
+    <content type="html"><![CDATA[<h2>Introduction</h2>
+
+<p>Singlish Translator</p>
 ]]></content>
   </entry>
   
